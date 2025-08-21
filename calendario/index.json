@@ -11,7 +11,7 @@
       "day_name": "Mercoledì 4 febbraio 2026 – Giorno -2",
       "total_events": 1,
       "medal_events": 0,
-      "file": "giorni/2026-02-04.json",
+      "file": "4_febbraio_json.json",
       "status": "pre_games"
     },
     {
@@ -19,7 +19,7 @@
       "day_name": "Giovedì 5 febbraio 2026 – Giorno -1", 
       "total_events": 8,
       "medal_events": 0,
-      "file": "giorni/2026-02-05.json",
+      "file": "5_febbraio_json.json",
       "status": "pre_games"
     },
     {
@@ -27,7 +27,7 @@
       "day_name": "Venerdì 6 febbraio 2026 – Giorno 0",
       "total_events": 6,
       "medal_events": 0,
-      "file": "giorni/2026-02-06.json",
+      "file": "6_febbraio_json.json",
       "status": "opening_ceremony",
       "highlights": ["Cerimonia d'Apertura"]
     },
@@ -36,7 +36,7 @@
       "day_name": "Sabato 7 febbraio 2026 – Giorno 1",
       "total_events": 16,
       "medal_events": 5,
-      "file": "giorni/2026-02-07.json",
+      "file": "7_febbraio_json.json",
       "status": "competition",
       "highlights": ["Prime medaglie olimpiche", "Sci alpino - Discesa libera uomini", "Salto con gli sci - Trampolino normale donne"]
     },
@@ -45,7 +45,7 @@
       "day_name": "Domenica 8 febbraio 2026 – Giorno 2",
       "total_events": 15,
       "medal_events": 8,
-      "file": "giorni/2026-02-08.json",
+      "file": "8_febbraio_json.json",
       "status": "competition",
       "highlights": ["Sci alpino - Discesa libera donne", "Pattinaggio di figura - Team event finale"]
     },
@@ -54,7 +54,7 @@
       "day_name": "Lunedì 9 febbraio 2026 – Giorno 3",
       "total_events": 14,
       "medal_events": 5,
-      "file": "giorni/2026-02-09.json",
+      "file": "9_febbraio_json.json",
       "status": "competition",
       "highlights": ["Sci alpino - Combinata squadre uomini", "Pattinaggio di figura - Danza sul ghiaccio"]
     },
@@ -63,7 +63,7 @@
       "day_name": "Martedì 10 febbraio 2026 – Giorno 4",
       "total_events": 21,
       "medal_events": 9,
-      "file": "giorni/2026-02-10.json",
+      "file": "10_febbraio_json.json",
       "status": "competition",
       "highlights": ["Curling - Finali doppio misto", "Short track - Staffetta mista", "Salto con gli sci - Squadre miste"]
     },
@@ -72,7 +72,7 @@
       "day_name": "Mercoledì 11 febbraio 2026 – Giorno 5",
       "total_events": 14,
       "medal_events": 8,
-      "file": "giorni/2026-02-11.json",
+      "file": "11_febbraio_json.json",
       "status": "competition",
       "highlights": ["Sci alpino - Super G uomini", "Slittino - Doppio uomini e donne", "Combinata nordica"]
     },
@@ -81,7 +81,7 @@
       "day_name": "Giovedì 12 febbraio 2026 – Giorno 6",
       "total_events": 17,
       "medal_events": 9,
-      "file": "giorni/2026-02-12.json",
+      "file": "12_febbraio_json.json",
       "status": "competition",
       "highlights": ["Sci alpino - Super G donne", "Short track - 500m donne, 1000m uomini", "Snowboard - Cross uomini"]
     },
@@ -90,7 +90,7 @@
       "day_name": "Venerdì 13 febbraio 2026 – Giorno 7",
       "total_events": 15,
       "medal_events": 7,
-      "file": "giorni/2026-02-13.json",
+      "file": "13_febbraio_json.json",
       "status": "competition",
       "highlights": ["Pattinaggio di figura - Individuale uomini", "Skeleton uomini", "Snowboard - Cross donne"]
     },
@@ -99,7 +99,7 @@
       "day_name": "Sabato 14 febbraio 2026 – Giorno 8",
       "total_events": 16,
       "medal_events": 8,
-      "file": "giorni/2026-02-14.json",
+      "file": "14_febbraio_json.json",
       "status": "competition",
       "highlights": ["Sci alpino - Slalom gigante uomini", "Short track - 1500m uomini", "Salto con gli sci - Trampolino lungo uomini"]
     },
@@ -108,7 +108,7 @@
       "day_name": "Domenica 15 febbraio 2026 – Giorno 9",
       "total_events": 21,
       "medal_events": 9,
-      "file": "giorni/2026-02-15.json",
+      "file": "15_febbraio_json.json",
       "status": "competition",
       "highlights": ["Sci alpino - Slalom gigante donne", "Biathlon - Inseguimento", "Skeleton - Squadre miste"]
     },
@@ -117,7 +117,7 @@
       "day_name": "Lunedì 16 febbraio 2026 – Giorno 10",
       "total_events": 15,
       "medal_events": 6,
-      "file": "giorni/2026-02-16.json",
+      "file": "16_febbraio_json.json",
       "status": "competition",
       "highlights": ["Sci alpino - Slalom uomini", "Pattinaggio di figura - Coppie", "Hockey su ghiaccio - Semifinali donne"]
     },
@@ -126,7 +126,7 @@
       "day_name": "Martedì 17 febbraio 2026 – Giorno 11",
       "total_events": 16,
       "medal_events": 7,
-      "file": "giorni/2026-02-17.json",
+      "file": "17_febbraio_json.json",
       "status": "competition",
       "highlights": ["Biathlon - Staffetta uomini", "Pattinaggio di velocità - Inseguimento squadre", "Combinata nordica - Trampolino lungo"]
     },
@@ -135,7 +135,7 @@
       "day_name": "Mercoledì 18 febbraio 2026 – Giorno 12",
       "total_events": 17,
       "medal_events": 8,
-      "file": "giorni/2026-02-18.json",
+      "file": "18_febbraio_json.json",
       "status": "competition",
       "highlights": ["Sci alpino - Slalom donne", "Short track - 500m uomini, Staffetta 3000m donne", "Hockey su ghiaccio - Quarti uomini"]
     },
@@ -144,7 +144,7 @@
       "day_name": "Giovedì 19 febbraio 2026 – Giorno 13",
       "total_events": 16,
       "medal_events": 7,
-      "file": "giorni/2026-02-19.json",
+      "file": "19_febbraio_json.json",
       "status": "competition",
       "highlights": ["Pattinaggio di figura - Individuale donne", "Hockey su ghiaccio - Finali donne", "Sci alpinismo - Sprint"]
     },
@@ -153,7 +153,7 @@
       "day_name": "Venerdì 20 febbraio 2026 – Giorno 14",
       "total_events": 11,
       "medal_events": 6,
-      "file": "giorni/2026-02-20.json",
+      "file": "20_febbraio_json.json",
       "status": "competition",
       "highlights": ["Biathlon - Mass start uomini", "Short track - 1500m donne, Staffetta 5000m uomini", "Hockey su ghiaccio - Semifinali uomini"]
     },
@@ -162,7 +162,7 @@
       "day_name": "Sabato 21 febbraio 2026 – Giorno 15",
       "total_events": 14,
       "medal_events": 10,
-      "file": "giorni/2026-02-21.json",
+      "file": "21_febbraio_json.json",
       "status": "competition",
       "highlights": ["Sci di fondo - Mass start 50km uomini", "Pattinaggio di velocità - Mass start", "Giornata record medaglie"]
     },
@@ -171,7 +171,7 @@
       "day_name": "Domenica 22 febbraio 2026 – Giorno 16",
       "total_events": 5,
       "medal_events": 4,
-      "file": "giorni/2026-02-22.json",
+      "file": "22_febbraio_json.json",
       "status": "closing_ceremony",
       "highlights": ["Sci di fondo - Mass start 50km donne", "Hockey su ghiaccio - Finale oro uomini", "Cerimonia di chiusura"]
     }
