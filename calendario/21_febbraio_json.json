@@ -1,0 +1,612 @@
+{
+  "data": "2026-02-21",
+  "giorno": "Sabato 21 febbraio 2026 – Giorno 15",
+  "eventi": [
+    {
+      "localita": "Antholz/Anterselva",
+      "zona": "Valtellina",
+      "evento": "Biathlon - Mass start 12.5km donne",
+      "orario": "14:15 - 15:15",
+      "tipo": "finale_medaglia",
+      "risultati": {
+        "medaglie": {
+          "oro": {
+            "atleta": "",
+            "paese": "",
+            "tempo": ""
+          },
+          "argento": {
+            "atleta": "",
+            "paese": "",
+            "tempo": ""
+          },
+          "bronzo": {
+            "atleta": "",
+            "paese": "",
+            "tempo": ""
+          }
+        },
+        "classifica_finale": [
+          {
+            "posizione": 1,
+            "atleta": "",
+            "paese": "",
+            "tempo": "",
+            "errori_tiro": "",
+            "giri_penalita": ""
+          },
+          {
+            "posizione": 2,
+            "atleta": "",
+            "paese": "",
+            "tempo": "",
+            "errori_tiro": "",
+            "giri_penalita": ""
+          },
+          {
+            "posizione": 3,
+            "atleta": "",
+            "paese": "",
+            "tempo": "",
+            "errori_tiro": "",
+            "giri_penalita": ""
+          }
+        ],
+        "note": ""
+      }
+    },
+    {
+      "localita": "Cortina d'Ampezzo",
+      "zona": "Cortina",
+      "evento": "Bob - Prima e seconda manche bob a 4 uomini",
+      "orario": "10:00 - 13:00",
+      "risultati": {
+        "classifica_dopo_run_2": [
+          {
+            "posizione": 1,
+            "equipaggio": "",
+            "paese": "",
+            "pilota": "",
+            "atleti": ["", "", "", ""],
+            "tempo_run_1": "",
+            "tempo_run_2": "",
+            "tempo_totale": ""
+          },
+          {
+            "posizione": 2,
+            "equipaggio": "",
+            "paese": "",
+            "pilota": "",
+            "atleti": ["", "", "", ""],
+            "tempo_run_1": "",
+            "tempo_run_2": "",
+            "tempo_totale": ""
+          },
+          {
+            "posizione": 3,
+            "equipaggio": "",
+            "paese": "",
+            "pilota": "",
+            "atleti": ["", "", "", ""],
+            "tempo_run_1": "",
+            "tempo_run_2": "",
+            "tempo_totale": ""
+          }
+        ],
+        "note": "Prime due manche, finale nei run 3-4"
+      }
+    },
+    {
+      "localita": "Cortina d'Ampezzo",
+      "zona": "Cortina",
+      "evento": "Bob - Terza e quarta manche doppio donne",
+      "orario": "19:00 - 22:10",
+      "tipo": "finale_medaglia",
+      "risultati": {
+        "medaglie": {
+          "oro": {
+            "equipaggio": "",
+            "paese": "",
+            "pilota": "",
+            "frenatrice": "",
+            "tempo_totale": ""
+          },
+          "argento": {
+            "equipaggio": "",
+            "paese": "",
+            "pilota": "",
+            "frenatrice": "",
+            "tempo_totale": ""
+          },
+          "bronzo": {
+            "equipaggio": "",
+            "paese": "",
+            "pilota": "",
+            "frenatrice": "",
+            "tempo_totale": ""
+          }
+        },
+        "classifica_finale": [
+          {
+            "posizione": 1,
+            "equipaggio": "",
+            "paese": "",
+            "pilota": "",
+            "frenatrice": "",
+            "tempo_run_1": "",
+            "tempo_run_2": "",
+            "tempo_run_3": "",
+            "tempo_run_4": "",
+            "tempo_totale": ""
+          },
+          {
+            "posizione": 2,
+            "equipaggio": "",
+            "paese": "",
+            "pilota": "",
+            "frenatrice": "",
+            "tempo_run_1": "",
+            "tempo_run_2": "",
+            "tempo_run_3": "",
+            "tempo_run_4": "",
+            "tempo_totale": ""
+          },
+          {
+            "posizione": 3,
+            "equipaggio": "",
+            "paese": "",
+            "pilota": "",
+            "frenatrice": "",
+            "tempo_run_1": "",
+            "tempo_run_2": "",
+            "tempo_run_3": "",
+            "tempo_run_4": "",
+            "tempo_totale": ""
+          }
+        ],
+        "note": ""
+      }
+    },
+    {
+      "localita": "Tesero",
+      "zona": "Val di Fiemme",
+      "evento": "Sci di fondo - Mass start 50km tecnica classica uomini",
+      "orario": "11:00 - 14:05",
+      "tipo": "finale_medaglia",
+      "risultati": {
+        "medaglie": {
+          "oro": {
+            "atleta": "",
+            "paese": "",
+            "tempo": ""
+          },
+          "argento": {
+            "atleta": "",
+            "paese": "",
+            "tempo": ""
+          },
+          "bronzo": {
+            "atleta": "",
+            "paese": "",
+            "tempo": ""
+          }
+        },
+        "classifica_finale": [
+          {
+            "posizione": 1,
+            "atleta": "",
+            "paese": "",
+            "tempo": ""
+          },
+          {
+            "posizione": 2,
+            "atleta": "",
+            "paese": "",
+            "tempo": ""
+          },
+          {
+            "posizione": 3,
+            "atleta": "",
+            "paese": "",
+            "tempo": ""
+          }
+        ],
+        "note": ""
+      }
+    },
+    {
+      "localita": "Cortina d'Ampezzo",
+      "zona": "Cortina",
+      "evento": "Curling - Finale per il bronzo donne",
+      "orario": "14:05 - 17:05",
+      "tipo": "finale_medaglia",
+      "risultati": {
+        "medaglia_bronzo": {
+          "squadra": "",
+          "paese": "",
+          "punteggio": ""
+        },
+        "quarta_classificata": {
+          "squadra": "",
+          "paese": "",
+          "punteggio": ""
+        },
+        "risultato_partita": {
+          "squadra_1": {"nome": "", "paese": "", "punteggio": ""},
+          "squadra_2": {"nome": "", "paese": "", "punteggio": ""},
+          "vincitore": ""
+        },
+        "note": ""
+      }
+    },
+    {
+      "localita": "Cortina d'Ampezzo",
+      "zona": "Cortina",
+      "evento": "Curling - Finale per l'oro uomini",
+      "orario": "19:05 - 22:25",
+      "tipo": "finale_medaglia",
+      "risultati": {
+        "medaglie": {
+          "oro": {
+            "squadra": "",
+            "paese": "",
+            "punteggio": ""
+          },
+          "argento": {
+            "squadra": "",
+            "paese": "",
+            "punteggio": ""
+          }
+        },
+        "risultato_partita": {
+          "squadra_1": {"nome": "", "paese": "", "punteggio": ""},
+          "squadra_2": {"nome": "", "paese": "", "punteggio": ""},
+          "vincitore": ""
+        },
+        "note": ""
+      }
+    },
+    {
+      "localita": "Milano",
+      "zona": "Milano",
+      "evento": "Pattinaggio di figura - Gala di esibizione",
+      "orario": "20:00 - 22:30",
+      "risultati": {
+        "esibizioni": [
+          {
+            "atleta_coppia": "",
+            "paese": "",
+            "tipo_esibizione": "",
+            "note": ""
+          }
+        ],
+        "note": "Evento dimostrativo senza assegnazione di medaglie"
+      }
+    },
+    {
+      "localita": "Livigno",
+      "zona": "Valtellina",
+      "evento": "Sci freestyle - Qualificazioni ski cross uomini",
+      "orario": "10:00 - 11:30",
+      "risultati": {
+        "qualificati": [],
+        "classifica_qualificazioni": [
+          {
+            "posizione": 1,
+            "atleta": "",
+            "paese": "",
+            "tempo": ""
+          },
+          {
+            "posizione": 2,
+            "atleta": "",
+            "paese": "",
+            "tempo": ""
+          },
+          {
+            "posizione": 3,
+            "atleta": "",
+            "paese": "",
+            "tempo": ""
+          }
+        ],
+        "note": ""
+      }
+    },
+    {
+      "localita": "Livigno",
+      "zona": "Valtellina",
+      "evento": "Sci freestyle - Finale aerials a squadre miste",
+      "orario": "10:45 - 12:35",
+      "tipo": "finale_medaglia",
+      "risultati": {
+        "medaglie": {
+          "oro": {
+            "squadra": "",
+            "paese": "",
+            "atleti": ["", ""],
+            "punteggio_totale": ""
+          },
+          "argento": {
+            "squadra": "",
+            "paese": "",
+            "atleti": ["", ""],
+            "punteggio_totale": ""
+          },
+          "bronzo": {
+            "squadra": "",
+            "paese": "",
+            "atleti": ["", ""],
+            "punteggio_totale": ""
+          }
+        },
+        "classifica_finale": [
+          {
+            "posizione": 1,
+            "squadra": "",
+            "paese": "",
+            "atleti": ["", ""],
+            "punteggio_uomo": "",
+            "punteggio_donna": "",
+            "punteggio_totale": ""
+          },
+          {
+            "posizione": 2,
+            "squadra": "",
+            "paese": "",
+            "atleti": ["", ""],
+            "punteggio_uomo": "",
+            "punteggio_donna": "",
+            "punteggio_totale": ""
+          },
+          {
+            "posizione": 3,
+            "squadra": "",
+            "paese": "",
+            "atleti": ["", ""],
+            "punteggio_uomo": "",
+            "punteggio_donna": "",
+            "punteggio_totale": ""
+          }
+        ],
+        "note": ""
+      }
+    },
+    {
+      "localita": "Livigno",
+      "zona": "Valtellina",
+      "evento": "Sci freestyle - Finali ski cross uomini",
+      "orario": "12:00 - 13:40",
+      "tipo": "finale_medaglia",
+      "risultati": {
+        "medaglie": {
+          "oro": {
+            "atleta": "",
+            "paese": "",
+            "tempo": ""
+          },
+          "argento": {
+            "atleta": "",
+            "paese": "",
+            "tempo": ""
+          },
+          "bronzo": {
+            "atleta": "",
+            "paese": "",
+            "tempo": ""
+          }
+        },
+        "risultati_finali": {
+          "big_final": {
+            "atleta_1": {"nome": "", "paese": "", "tempo": ""},
+            "atleta_2": {"nome": "", "paese": "", "tempo": ""},
+            "atleta_3": {"nome": "", "paese": "", "tempo": ""},
+            "atleta_4": {"nome": "", "paese": "", "tempo": ""}
+          },
+          "small_final": {
+            "atleta_1": {"nome": "", "paese": "", "tempo": ""},
+            "atleta_2": {"nome": "", "paese": "", "tempo": ""},
+            "atleta_3": {"nome": "", "paese": "", "tempo": ""},
+            "atleta_4": {"nome": "", "paese": "", "tempo": ""}
+          }
+        },
+        "note": ""
+      }
+    },
+    {
+      "localita": "Livigno",
+      "zona": "Valtellina",
+      "evento": "Sci freestyle - Finale freeski halfpipe donne",
+      "orario": "19:30 - 21:20",
+      "tipo": "finale_medaglia",
+      "risultati": {
+        "medaglie": {
+          "oro": {
+            "atleta": "",
+            "paese": "",
+            "punteggio_finale": ""
+          },
+          "argento": {
+            "atleta": "",
+            "paese": "",
+            "punteggio_finale": ""
+          },
+          "bronzo": {
+            "atleta": "",
+            "paese": "",
+            "punteggio_finale": ""
+          }
+        },
+        "classifica_finale": [
+          {
+            "posizione": 1,
+            "atleta": "",
+            "paese": "",
+            "run_1": "",
+            "run_2": "",
+            "run_3": "",
+            "punteggio_finale": ""
+          },
+          {
+            "posizione": 2,
+            "atleta": "",
+            "paese": "",
+            "run_1": "",
+            "run_2": "",
+            "run_3": "",
+            "punteggio_finale": ""
+          },
+          {
+            "posizione": 3,
+            "atleta": "",
+            "paese": "",
+            "run_1": "",
+            "run_2": "",
+            "run_3": "",
+            "punteggio_finale": ""
+          }
+        ],
+        "note": ""
+      }
+    },
+    {
+      "localita": "Milano",
+      "zona": "Milano",
+      "evento": "Hockey su ghiaccio - Finale per il bronzo uomini",
+      "orario": "20:40 - 23:40",
+      "tipo": "finale_medaglia",
+      "risultati": {
+        "medaglia_bronzo": {
+          "squadra": "",
+          "paese": "",
+          "punteggio": ""
+        },
+        "quarta_classificata": {
+          "squadra": "",
+          "paese": "",
+          "punteggio": ""
+        },
+        "risultato_partita": {
+          "squadra_1": {"nome": "", "paese": "", "punteggio": ""},
+          "squadra_2": {"nome": "", "paese": "", "punteggio": ""},
+          "vincitore": ""
+        },
+        "note": ""
+      }
+    },
+    {
+      "localita": "Bormio",
+      "zona": "Valtellina",
+      "evento": "Sci alpinismo - Finale staffetta mista",
+      "orario": "13:30 - 14:50",
+      "tipo": "finale_medaglia",
+      "risultati": {
+        "medaglie": {
+          "oro": {
+            "squadra": "",
+            "paese": "",
+            "atleti": ["", ""],
+            "tempo": ""
+          },
+          "argento": {
+            "squadra": "",
+            "paese": "",
+            "atleti": ["", ""],
+            "tempo": ""
+          },
+          "bronzo": {
+            "squadra": "",
+            "paese": "",
+            "atleti": ["", ""],
+            "tempo": ""
+          }
+        },
+        "classifica_finale": [
+          {
+            "posizione": 1,
+            "squadra": "",
+            "paese": "",
+            "atleti": ["", ""],
+            "tempo": ""
+          },
+          {
+            "posizione": 2,
+            "squadra": "",
+            "paese": "",
+            "atleti": ["", ""],
+            "tempo": ""
+          },
+          {
+            "posizione": 3,
+            "squadra": "",
+            "paese": "",
+            "atleti": ["", ""],
+            "tempo": ""
+          }
+        ],
+        "note": ""
+      }
+    },
+    {
+      "localita": "Milano",
+      "zona": "Milano",
+      "evento": "Pattinaggio di velocità - Mass start uomini; Mass start donne",
+      "orario": "15:00 - 18:00",
+      "tipo": "finale_medaglia",
+      "risultati": {
+        "mass_start_uomini": {
+          "medaglie": {
+            "oro": {
+              "atleta": "",
+              "paese": "",
+              "tempo": ""
+            },
+            "argento": {
+              "atleta": "",
+              "paese": "",
+              "tempo": ""
+            },
+            "bronzo": {
+              "atleta": "",
+              "paese": "",
+              "tempo": ""
+            }
+          },
+          "classifica_finale": [
+            {"posizione": 1, "atleta": "", "paese": "", "tempo": ""},
+            {"posizione": 2, "atleta": "", "paese": "", "tempo": ""},
+            {"posizione": 3, "atleta": "", "paese": "", "tempo": ""}
+          ]
+        },
+        "mass_start_donne": {
+          "medaglie": {
+            "oro": {
+              "atleta": "",
+              "paese": "",
+              "tempo": ""
+            },
+            "argento": {
+              "atleta": "",
+              "paese": "",
+              "tempo": ""
+            },
+            "bronzo": {
+              "atleta": "",
+              "paese": "",
+              "tempo": ""
+            }
+          },
+          "classifica_finale": [
+            {"posizione": 1, "atleta": "", "paese": "", "tempo": ""},
+            {"posizione": 2, "atleta": "", "paese": "", "tempo": ""},
+            {"posizione": 3, "atleta": "", "paese": "", "tempo": ""}
+          ]
+        },
+        "note": ""
+      }
+    }
+  ],
+  "totale_eventi": 14,
+  "eventi_medaglia": 10,
+  "giornata_record": true
+}

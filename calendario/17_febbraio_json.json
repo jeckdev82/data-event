@@ -1,0 +1,624 @@
+{
+  "data": "2026-02-17",
+  "giorno": "Martedì 17 febbraio 2026 – Giorno 11",
+  "eventi": [
+    {
+      "localita": "Antholz/Anterselva",
+      "zona": "Valtellina",
+      "evento": "Biathlon - Staffetta 4x7.5km uomini",
+      "orario": "14:30 - 16:10",
+      "tipo": "finale_medaglia",
+      "risultati": {
+        "medaglie": {
+          "oro": {
+            "squadra": "",
+            "paese": "",
+            "atleti": ["", "", "", ""],
+            "tempo": ""
+          },
+          "argento": {
+            "squadra": "",
+            "paese": "",
+            "atleti": ["", "", "", ""],
+            "tempo": ""
+          },
+          "bronzo": {
+            "squadra": "",
+            "paese": "",
+            "atleti": ["", "", "", ""],
+            "tempo": ""
+          }
+        },
+        "classifica_finale": [
+          {
+            "posizione": 1,
+            "squadra": "",
+            "paese": "",
+            "atleti": ["", "", "", ""],
+            "tempo": "",
+            "errori_tiro": "",
+            "giri_penalita": ""
+          },
+          {
+            "posizione": 2,
+            "squadra": "",
+            "paese": "",
+            "atleti": ["", "", "", ""],
+            "tempo": "",
+            "errori_tiro": "",
+            "giri_penalita": ""
+          },
+          {
+            "posizione": 3,
+            "squadra": "",
+            "paese": "",
+            "atleti": ["", "", "", ""],
+            "tempo": "",
+            "errori_tiro": "",
+            "giri_penalita": ""
+          }
+        ],
+        "note": ""
+      }
+    },
+    {
+      "localita": "Cortina d'Ampezzo",
+      "zona": "Cortina",
+      "evento": "Bob - Terza e quarta manche doppio uomini",
+      "orario": "19:00 - 22:10",
+      "tipo": "finale_medaglia",
+      "risultati": {
+        "medaglie": {
+          "oro": {
+            "equipaggio": "",
+            "paese": "",
+            "pilota": "",
+            "frenatore": "",
+            "tempo_totale": ""
+          },
+          "argento": {
+            "equipaggio": "",
+            "paese": "",
+            "pilota": "",
+            "frenatore": "",
+            "tempo_totale": ""
+          },
+          "bronzo": {
+            "equipaggio": "",
+            "paese": "",
+            "pilota": "",
+            "frenatore": "",
+            "tempo_totale": ""
+          }
+        },
+        "classifica_finale": [
+          {
+            "posizione": 1,
+            "equipaggio": "",
+            "paese": "",
+            "pilota": "",
+            "frenatore": "",
+            "tempo_run_1": "",
+            "tempo_run_2": "",
+            "tempo_run_3": "",
+            "tempo_run_4": "",
+            "tempo_totale": ""
+          },
+          {
+            "posizione": 2,
+            "equipaggio": "",
+            "paese": "",
+            "pilota": "",
+            "frenatore": "",
+            "tempo_run_1": "",
+            "tempo_run_2": "",
+            "tempo_run_3": "",
+            "tempo_run_4": "",
+            "tempo_totale": ""
+          },
+          {
+            "posizione": 3,
+            "equipaggio": "",
+            "paese": "",
+            "pilota": "",
+            "frenatore": "",
+            "tempo_run_1": "",
+            "tempo_run_2": "",
+            "tempo_run_3": "",
+            "tempo_run_4": "",
+            "tempo_totale": ""
+          }
+        ],
+        "note": ""
+      }
+    },
+    {
+      "localita": "Cortina d'Ampezzo",
+      "zona": "Cortina",
+      "evento": "Curling - Round robin uomini 9",
+      "orario": "09:05 - 12:05",
+      "risultati": {
+        "squadra_1": {
+          "nome": "",
+          "paese": "",
+          "punteggio": ""
+        },
+        "squadra_2": {
+          "nome": "",
+          "paese": "",
+          "punteggio": ""
+        },
+        "vincitore": "",
+        "note": ""
+      }
+    },
+    {
+      "localita": "Cortina d'Ampezzo",
+      "zona": "Cortina",
+      "evento": "Curling - Round robin donne 9",
+      "orario": "14:05 - 17:05",
+      "risultati": {
+        "squadra_1": {
+          "nome": "",
+          "paese": "",
+          "punteggio": ""
+        },
+        "squadra_2": {
+          "nome": "",
+          "paese": "",
+          "punteggio": ""
+        },
+        "vincitore": "",
+        "note": ""
+      }
+    },
+    {
+      "localita": "Cortina d'Ampezzo",
+      "zona": "Cortina",
+      "evento": "Curling - Round robin uomini 10",
+      "orario": "19:05 - 22:05",
+      "risultati": {
+        "squadra_1": {
+          "nome": "",
+          "paese": "",
+          "punteggio": ""
+        },
+        "squadra_2": {
+          "nome": "",
+          "paese": "",
+          "punteggio": ""
+        },
+        "vincitore": "",
+        "note": ""
+      }
+    },
+    {
+      "localita": "Milano",
+      "zona": "Milano",
+      "evento": "Pattinaggio di figura - Individuale donne programma corto",
+      "orario": "18:45 - 23:00",
+      "risultati": {
+        "classifica_dopo_programma_corto": [
+          {
+            "posizione": 1,
+            "atleta": "",
+            "paese": "",
+            "punteggio": ""
+          },
+          {
+            "posizione": 2,
+            "atleta": "",
+            "paese": "",
+            "punteggio": ""
+          },
+          {
+            "posizione": 3,
+            "atleta": "",
+            "paese": "",
+            "punteggio": ""
+          }
+        ],
+        "note": "Prima parte della competizione, continua con il programma libero"
+      }
+    },
+    {
+      "localita": "Livigno",
+      "zona": "Valtellina",
+      "evento": "Sci freestyle - Qualificazioni aerials donne",
+      "orario": "11:00 - 12:15",
+      "risultati": {
+        "qualificate": [],
+        "classifica_qualificazioni": [
+          {
+            "posizione": 1,
+            "atleta": "",
+            "paese": "",
+            "punteggio": ""
+          },
+          {
+            "posizione": 2,
+            "atleta": "",
+            "paese": "",
+            "punteggio": ""
+          },
+          {
+            "posizione": 3,
+            "atleta": "",
+            "paese": "",
+            "punteggio": ""
+          }
+        ],
+        "note": ""
+      }
+    },
+    {
+      "localita": "Livigno",
+      "zona": "Valtellina",
+      "evento": "Sci freestyle - Qualificazioni aerials uomini",
+      "orario": "13:30 - 14:45",
+      "risultati": {
+        "qualificati": [],
+        "classifica_qualificazioni": [
+          {
+            "posizione": 1,
+            "atleta": "",
+            "paese": "",
+            "punteggio": ""
+          },
+          {
+            "posizione": 2,
+            "atleta": "",
+            "paese": "",
+            "punteggio": ""
+          },
+          {
+            "posizione": 3,
+            "atleta": "",
+            "paese": "",
+            "punteggio": ""
+          }
+        ],
+        "note": ""
+      }
+    },
+    {
+      "localita": "Livigno",
+      "zona": "Valtellina",
+      "evento": "Sci freestyle - Finale freeski big air uomini",
+      "orario": "19:30 - 21:05",
+      "tipo": "finale_medaglia",
+      "risultati": {
+        "medaglie": {
+          "oro": {
+            "atleta": "",
+            "paese": "",
+            "punteggio_finale": ""
+          },
+          "argento": {
+            "atleta": "",
+            "paese": "",
+            "punteggio_finale": ""
+          },
+          "bronzo": {
+            "atleta": "",
+            "paese": "",
+            "punteggio_finale": ""
+          }
+        },
+        "classifica_finale": [
+          {
+            "posizione": 1,
+            "atleta": "",
+            "paese": "",
+            "run_1": "",
+            "run_2": "",
+            "run_3": "",
+            "punteggio_finale": ""
+          },
+          {
+            "posizione": 2,
+            "atleta": "",
+            "paese": "",
+            "run_1": "",
+            "run_2": "",
+            "run_3": "",
+            "punteggio_finale": ""
+          },
+          {
+            "posizione": 3,
+            "atleta": "",
+            "paese": "",
+            "run_1": "",
+            "run_2": "",
+            "run_3": "",
+            "punteggio_finale": ""
+          }
+        ],
+        "note": ""
+      }
+    },
+    {
+      "localita": "Milano",
+      "zona": "Milano",
+      "evento": "Hockey su ghiaccio - Playoff di qualificazione uomini (2 partite)",
+      "orario": "12:10 - 14:40",
+      "risultati": {
+        "partita_1": {
+          "squadra_1": {"nome": "", "paese": "", "punteggio": ""},
+          "squadra_2": {"nome": "", "paese": "", "punteggio": ""},
+          "vincitore": ""
+        },
+        "partita_2": {
+          "squadra_1": {"nome": "", "paese": "", "punteggio": ""},
+          "squadra_2": {"nome": "", "paese": "", "punteggio": ""},
+          "vincitore": ""
+        },
+        "note": ""
+      }
+    },
+    {
+      "localita": "Milano",
+      "zona": "Milano",
+      "evento": "Hockey su ghiaccio - Playoff di qualificazione uomini",
+      "orario": "16:40 - 19:10",
+      "risultati": {
+        "squadra_1": {
+          "nome": "",
+          "paese": "",
+          "punteggio": ""
+        },
+        "squadra_2": {
+          "nome": "",
+          "paese": "",
+          "punteggio": ""
+        },
+        "vincitore": "",
+        "note": ""
+      }
+    },
+    {
+      "localita": "Milano",
+      "zona": "Milano",
+      "evento": "Hockey su ghiaccio - Playoff di qualificazione uomini",
+      "orario": "21:10 - 23:40",
+      "risultati": {
+        "squadra_1": {
+          "nome": "",
+          "paese": "",
+          "punteggio": ""
+        },
+        "squadra_2": {
+          "nome": "",
+          "paese": "",
+          "punteggio": ""
+        },
+        "vincitore": "",
+        "note": ""
+      }
+    },
+    {
+      "localita": "Predazzo",
+      "zona": "Val di Fiemme",
+      "evento": "Combinata nordica - Individuale Gundersen uomini LH trampolino lungo",
+      "orario": "10:00 - 10:45",
+      "risultati": {
+        "classifica_dopo_salto": [
+          {
+            "posizione": 1,
+            "atleta": "",
+            "paese": "",
+            "distanza": "",
+            "punti": "",
+            "distacco_partenza": ""
+          },
+          {
+            "posizione": 2,
+            "atleta": "",
+            "paese": "",
+            "distanza": "",
+            "punti": "",
+            "distacco_partenza": ""
+          },
+          {
+            "posizione": 3,
+            "atleta": "",
+            "paese": "",
+            "distanza": "",
+            "punti": "",
+            "distacco_partenza": ""
+          }
+        ],
+        "note": "Prima parte della combinata, continua con lo sci di fondo"
+      }
+    },
+    {
+      "localita": "Tesero",
+      "zona": "Val di Fiemme",
+      "evento": "Combinata nordica - Individuale Gundersen uomini LH trampolino lungo/10 km",
+      "orario": "13:45 - 14:35",
+      "tipo": "finale_medaglia",
+      "risultati": {
+        "medaglie": {
+          "oro": {
+            "atleta": "",
+            "paese": "",
+            "tempo_finale": ""
+          },
+          "argento": {
+            "atleta": "",
+            "paese": "",
+            "tempo_finale": ""
+          },
+          "bronzo": {
+            "atleta": "",
+            "paese": "",
+            "tempo_finale": ""
+          }
+        },
+        "classifica_finale": [
+          {
+            "posizione": 1,
+            "atleta": "",
+            "paese": "",
+            "punti_salto": "",
+            "tempo_fondo": "",
+            "tempo_finale": ""
+          },
+          {
+            "posizione": 2,
+            "atleta": "",
+            "paese": "",
+            "punti_salto": "",
+            "tempo_fondo": "",
+            "tempo_finale": ""
+          },
+          {
+            "posizione": 3,
+            "atleta": "",
+            "paese": "",
+            "punti_salto": "",
+            "tempo_fondo": "",
+            "tempo_finale": ""
+          }
+        ],
+        "note": ""
+      }
+    },
+    {
+      "localita": "Livigno",
+      "zona": "Valtellina",
+      "evento": "Snowboard - Finale snowboard slopestyle donne",
+      "orario": "13:00 - 14:50",
+      "tipo": "finale_medaglia",
+      "risultati": {
+        "medaglie": {
+          "oro": {
+            "atleta": "",
+            "paese": "",
+            "punteggio_finale": ""
+          },
+          "argento": {
+            "atleta": "",
+            "paese": "",
+            "punteggio_finale": ""
+          },
+          "bronzo": {
+            "atleta": "",
+            "paese": "",
+            "punteggio_finale": ""
+          }
+        },
+        "classifica_finale": [
+          {
+            "posizione": 1,
+            "atleta": "",
+            "paese": "",
+            "run_1": "",
+            "run_2": "",
+            "run_3": "",
+            "punteggio_finale": ""
+          },
+          {
+            "posizione": 2,
+            "atleta": "",
+            "paese": "",
+            "run_1": "",
+            "run_2": "",
+            "run_3": "",
+            "punteggio_finale": ""
+          },
+          {
+            "posizione": 3,
+            "atleta": "",
+            "paese": "",
+            "run_1": "",
+            "run_2": "",
+            "run_3": "",
+            "punteggio_finale": ""
+          }
+        ],
+        "note": ""
+      }
+    },
+    {
+      "localita": "Milano",
+      "zona": "Milano",
+      "evento": "Pattinaggio di velocità - Finali inseguimento a squadre uomini; Finali inseguimento a squadre donne",
+      "orario": "14:30 - 17:25",
+      "tipo": "finale_medaglia",
+      "risultati": {
+        "inseguimento_squadre_uomini": {
+          "medaglie": {
+            "oro": {
+              "squadra": "",
+              "paese": "",
+              "atleti": ["", "", ""],
+              "tempo": ""
+            },
+            "argento": {
+              "squadra": "",
+              "paese": "",
+              "atleti": ["", "", ""],
+              "tempo": ""
+            },
+            "bronzo": {
+              "squadra": "",
+              "paese": "",
+              "atleti": ["", "", ""],
+              "tempo": ""
+            }
+          },
+          "risultati_finali": {
+            "finale_oro": {
+              "squadra_1": {"nome": "", "paese": "", "atleti": ["", "", ""], "tempo": ""},
+              "squadra_2": {"nome": "", "paese": "", "atleti": ["", "", ""], "tempo": ""},
+              "vincitore": ""
+            },
+            "finale_bronzo": {
+              "squadra_1": {"nome": "", "paese": "", "atleti": ["", "", ""], "tempo": ""},
+              "squadra_2": {"nome": "", "paese": "", "atleti": ["", "", ""], "tempo": ""},
+              "vincitore": ""
+            }
+          }
+        },
+        "inseguimento_squadre_donne": {
+          "medaglie": {
+            "oro": {
+              "squadra": "",
+              "paese": "",
+              "atleti": ["", "", ""],
+              "tempo": ""
+            },
+            "argento": {
+              "squadra": "",
+              "paese": "",
+              "atleti": ["", "", ""],
+              "tempo": ""
+            },
+            "bronzo": {
+              "squadra": "",
+              "paese": "",
+              "atleti": ["", "", ""],
+              "tempo": ""
+            }
+          },
+          "risultati_finali": {
+            "finale_oro": {
+              "squadra_1": {"nome": "", "paese": "", "atleti": ["", "", ""], "tempo": ""},
+              "squadra_2": {"nome": "", "paese": "", "atleti": ["", "", ""], "tempo": ""},
+              "vincitore": ""
+            },
+            "finale_bronzo": {
+              "squadra_1": {"nome": "", "paese": "", "atleti": ["", "", ""], "tempo": ""},
+              "squadra_2": {"nome": "", "paese": "", "atleti": ["", "", ""], "tempo": ""},
+              "vincitore": ""
+            }
+          }
+        },
+        "note": ""
+      }
+    }
+  ],
+  "totale_eventi": 16,
+  "eventi_medaglia": 7
+}

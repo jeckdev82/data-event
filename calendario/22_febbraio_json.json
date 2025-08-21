@@ -1,0 +1,192 @@
+{
+  "data": "2026-02-22",
+  "giorno": "Domenica 22 febbraio 2026 – Giorno 16",
+  "ultimo_giorno": true,
+  "eventi": [
+    {
+      "localita": "Cortina d'Ampezzo",
+      "zona": "Cortina",
+      "evento": "Bob - Terza e quarta manche bob a 4 uomini",
+      "orario": "10:00 - 13:20",
+      "tipo": "finale_medaglia",
+      "risultati": {
+        "medaglie": {
+          "oro": {
+            "equipaggio": "",
+            "paese": "",
+            "pilota": "",
+            "atleti": ["", "", "", ""],
+            "tempo_totale": ""
+          },
+          "argento": {
+            "equipaggio": "",
+            "paese": "",
+            "pilota": "",
+            "atleti": ["", "", "", ""],
+            "tempo_totale": ""
+          },
+          "bronzo": {
+            "equipaggio": "",
+            "paese": "",
+            "pilota": "",
+            "atleti": ["", "", "", ""],
+            "tempo_totale": ""
+          }
+        },
+        "classifica_finale": [
+          {
+            "posizione": 1,
+            "equipaggio": "",
+            "paese": "",
+            "pilota": "",
+            "atleti": ["", "", "", ""],
+            "tempo_run_1": "",
+            "tempo_run_2": "",
+            "tempo_run_3": "",
+            "tempo_run_4": "",
+            "tempo_totale": ""
+          },
+          {
+            "posizione": 2,
+            "equipaggio": "",
+            "paese": "",
+            "pilota": "",
+            "atleti": ["", "", "", ""],
+            "tempo_run_1": "",
+            "tempo_run_2": "",
+            "tempo_run_3": "",
+            "tempo_run_4": "",
+            "tempo_totale": ""
+          },
+          {
+            "posizione": 3,
+            "equipaggio": "",
+            "paese": "",
+            "pilota": "",
+            "atleti": ["", "", "", ""],
+            "tempo_run_1": "",
+            "tempo_run_2": "",
+            "tempo_run_3": "",
+            "tempo_run_4": "",
+            "tempo_totale": ""
+          }
+        ],
+        "note": ""
+      }
+    },
+    {
+      "localita": "Tesero",
+      "zona": "Val di Fiemme",
+      "evento": "Sci di fondo - Mass start 50km tecnica classica donne",
+      "orario": "10:00 - 13:35",
+      "tipo": "finale_medaglia",
+      "risultati": {
+        "medaglie": {
+          "oro": {
+            "atleta": "",
+            "paese": "",
+            "tempo": ""
+          },
+          "argento": {
+            "atleta": "",
+            "paese": "",
+            "tempo": ""
+          },
+          "bronzo": {
+            "atleta": "",
+            "paese": "",
+            "tempo": ""
+          }
+        },
+        "classifica_finale": [
+          {
+            "posizione": 1,
+            "atleta": "",
+            "paese": "",
+            "tempo": ""
+          },
+          {
+            "posizione": 2,
+            "atleta": "",
+            "paese": "",
+            "tempo": ""
+          },
+          {
+            "posizione": 3,
+            "atleta": "",
+            "paese": "",
+            "tempo": ""
+          }
+        ],
+        "note": ""
+      }
+    },
+    {
+      "localita": "Cortina d'Ampezzo",
+      "zona": "Cortina",
+      "evento": "Curling - Finale per l'oro donne",
+      "orario": "11:05 - 14:25",
+      "tipo": "finale_medaglia",
+      "risultati": {
+        "medaglie": {
+          "oro": {
+            "squadra": "",
+            "paese": "",
+            "punteggio": ""
+          },
+          "argento": {
+            "squadra": "",
+            "paese": "",
+            "punteggio": ""
+          }
+        },
+        "risultato_partita": {
+          "squadra_1": {"nome": "", "paese": "", "punteggio": ""},
+          "squadra_2": {"nome": "", "paese": "", "punteggio": ""},
+          "vincitore": ""
+        },
+        "note": ""
+      }
+    },
+    {
+      "localita": "Milano",
+      "zona": "Milano",
+      "evento": "Hockey su ghiaccio - Finale per l'oro uomini",
+      "orario": "13:40 - 16:40",
+      "tipo": "finale_medaglia",
+      "risultati": {
+        "medaglie": {
+          "oro": {
+            "squadra": "",
+            "paese": "",
+            "punteggio": ""
+          },
+          "argento": {
+            "squadra": "",
+            "paese": "",
+            "punteggio": ""
+          }
+        },
+        "risultato_partita": {
+          "squadra_1": {"nome": "", "paese": "", "punteggio": ""},
+          "squadra_2": {"nome": "", "paese": "", "punteggio": ""},
+          "vincitore": ""
+        },
+        "note": "Ultima medaglia olimpica assegnata"
+      }
+    },
+    {
+      "localita": "Verona",
+      "zona": "Verona",
+      "evento": "Cerimonia di chiusura",
+      "orario": "20:00 - 23:00",
+      "risultati": {
+        "note": "Cerimonia conclusiva delle Olimpiadi Invernali Milano-Cortina 2026 presso l'Arena di Verona"
+      }
+    }
+  ],
+  "totale_eventi": 5,
+  "eventi_medaglia": 4,
+  "ultima_medaglia": "Hockey su ghiaccio - Finale oro uomini",
+  "cerimonia_chiusura": true
+}

@@ -1,0 +1,789 @@
+{
+  "data": "2026-02-15",
+  "giorno": "Domenica 15 febbraio 2026 – Giorno 9",
+  "eventi": [
+    {
+      "localita": "Cortina d'Ampezzo",
+      "zona": "Cortina",
+      "evento": "Sci alpino - Prima manche slalom gigante donne",
+      "orario": "10:00 - 12:00",
+      "risultati": {
+        "classifica_dopo_prima_manche": [
+          {
+            "posizione": 1,
+            "atleta": "",
+            "paese": "",
+            "tempo": ""
+          },
+          {
+            "posizione": 2,
+            "atleta": "",
+            "paese": "",
+            "tempo": ""
+          },
+          {
+            "posizione": 3,
+            "atleta": "",
+            "paese": "",
+            "tempo": ""
+          }
+        ],
+        "note": "Prima manche, continua con la seconda manche"
+      }
+    },
+    {
+      "localita": "Cortina d'Ampezzo",
+      "zona": "Cortina",
+      "evento": "Sci alpino - Seconda manche slalom gigante donne",
+      "orario": "13:30 - 15:20",
+      "tipo": "finale_medaglia",
+      "risultati": {
+        "medaglie": {
+          "oro": {
+            "atleta": "",
+            "paese": "",
+            "tempo_totale": ""
+          },
+          "argento": {
+            "atleta": "",
+            "paese": "",
+            "tempo_totale": ""
+          },
+          "bronzo": {
+            "atleta": "",
+            "paese": "",
+            "tempo_totale": ""
+          }
+        },
+        "classifica_finale": [
+          {
+            "posizione": 1,
+            "atleta": "",
+            "paese": "",
+            "tempo_prima_manche": "",
+            "tempo_seconda_manche": "",
+            "tempo_totale": ""
+          },
+          {
+            "posizione": 2,
+            "atleta": "",
+            "paese": "",
+            "tempo_prima_manche": "",
+            "tempo_seconda_manche": "",
+            "tempo_totale": ""
+          },
+          {
+            "posizione": 3,
+            "atleta": "",
+            "paese": "",
+            "tempo_prima_manche": "",
+            "tempo_seconda_manche": "",
+            "tempo_totale": ""
+          }
+        ],
+        "note": ""
+      }
+    },
+    {
+      "localita": "Antholz/Anterselva",
+      "zona": "Valtellina",
+      "evento": "Biathlon - Inseguimento 12.5km uomini",
+      "orario": "11:15 - 12:00",
+      "tipo": "finale_medaglia",
+      "risultati": {
+        "medaglie": {
+          "oro": {
+            "atleta": "",
+            "paese": "",
+            "tempo": ""
+          },
+          "argento": {
+            "atleta": "",
+            "paese": "",
+            "tempo": ""
+          },
+          "bronzo": {
+            "atleta": "",
+            "paese": "",
+            "tempo": ""
+          }
+        },
+        "classifica_finale": [
+          {
+            "posizione": 1,
+            "atleta": "",
+            "paese": "",
+            "tempo": "",
+            "errori_tiro": "",
+            "giri_penalita": "",
+            "posizione_partenza": ""
+          },
+          {
+            "posizione": 2,
+            "atleta": "",
+            "paese": "",
+            "tempo": "",
+            "errori_tiro": "",
+            "giri_penalita": "",
+            "posizione_partenza": ""
+          },
+          {
+            "posizione": 3,
+            "atleta": "",
+            "paese": "",
+            "tempo": "",
+            "errori_tiro": "",
+            "giri_penalita": "",
+            "posizione_partenza": ""
+          }
+        ],
+        "note": ""
+      }
+    },
+    {
+      "localita": "Antholz/Anterselva",
+      "zona": "Valtellina",
+      "evento": "Biathlon - Inseguimento 10km donne",
+      "orario": "14:45 - 16:00",
+      "tipo": "finale_medaglia",
+      "risultati": {
+        "medaglie": {
+          "oro": {
+            "atleta": "",
+            "paese": "",
+            "tempo": ""
+          },
+          "argento": {
+            "atleta": "",
+            "paese": "",
+            "tempo": ""
+          },
+          "bronzo": {
+            "atleta": "",
+            "paese": "",
+            "tempo": ""
+          }
+        },
+        "classifica_finale": [
+          {
+            "posizione": 1,
+            "atleta": "",
+            "paese": "",
+            "tempo": "",
+            "errori_tiro": "",
+            "giri_penalita": "",
+            "posizione_partenza": ""
+          },
+          {
+            "posizione": 2,
+            "atleta": "",
+            "paese": "",
+            "tempo": "",
+            "errori_tiro": "",
+            "giri_penalita": "",
+            "posizione_partenza": ""
+          },
+          {
+            "posizione": 3,
+            "atleta": "",
+            "paese": "",
+            "tempo": "",
+            "errori_tiro": "",
+            "giri_penalita": "",
+            "posizione_partenza": ""
+          }
+        ],
+        "note": ""
+      }
+    },
+    {
+      "localita": "Cortina d'Ampezzo",
+      "zona": "Cortina",
+      "evento": "Bob - Prima e seconda manche monobob donne",
+      "orario": "10:00 - 12:50",
+      "risultati": {
+        "classifica_dopo_run_2": [
+          {
+            "posizione": 1,
+            "atleta": "",
+            "paese": "",
+            "tempo_run_1": "",
+            "tempo_run_2": "",
+            "tempo_totale": ""
+          },
+          {
+            "posizione": 2,
+            "atleta": "",
+            "paese": "",
+            "tempo_run_1": "",
+            "tempo_run_2": "",
+            "tempo_totale": ""
+          },
+          {
+            "posizione": 3,
+            "atleta": "",
+            "paese": "",
+            "tempo_run_1": "",
+            "tempo_run_2": "",
+            "tempo_totale": ""
+          }
+        ],
+        "note": "Prime due manche, finale nei run 3-4"
+      }
+    },
+    {
+      "localita": "Tesero",
+      "zona": "Val di Fiemme",
+      "evento": "Sci di fondo - Staffetta 4x7.5km uomini",
+      "orario": "12:00 - 14:00",
+      "tipo": "finale_medaglia",
+      "risultati": {
+        "medaglie": {
+          "oro": {
+            "squadra": "",
+            "paese": "",
+            "atleti": ["", "", "", ""],
+            "tempo": ""
+          },
+          "argento": {
+            "squadra": "",
+            "paese": "",
+            "atleti": ["", "", "", ""],
+            "tempo": ""
+          },
+          "bronzo": {
+            "squadra": "",
+            "paese": "",
+            "atleti": ["", "", "", ""],
+            "tempo": ""
+          }
+        },
+        "classifica_finale": [
+          {
+            "posizione": 1,
+            "squadra": "",
+            "paese": "",
+            "atleti": ["", "", "", ""],
+            "tempo": ""
+          },
+          {
+            "posizione": 2,
+            "squadra": "",
+            "paese": "",
+            "atleti": ["", "", "", ""],
+            "tempo": ""
+          },
+          {
+            "posizione": 3,
+            "squadra": "",
+            "paese": "",
+            "atleti": ["", "", "", ""],
+            "tempo": ""
+          }
+        ],
+        "note": ""
+      }
+    },
+    {
+      "localita": "Cortina d'Ampezzo",
+      "zona": "Cortina",
+      "evento": "Curling - Round robin uomini 6",
+      "orario": "09:05 - 12:05",
+      "risultati": {
+        "squadra_1": {
+          "nome": "",
+          "paese": "",
+          "punteggio": ""
+        },
+        "squadra_2": {
+          "nome": "",
+          "paese": "",
+          "punteggio": ""
+        },
+        "vincitore": "",
+        "note": ""
+      }
+    },
+    {
+      "localita": "Cortina d'Ampezzo",
+      "zona": "Cortina",
+      "evento": "Curling - Round robin donne 6",
+      "orario": "14:05 - 17:05",
+      "risultati": {
+        "squadra_1": {
+          "nome": "",
+          "paese": "",
+          "punteggio": ""
+        },
+        "squadra_2": {
+          "nome": "",
+          "paese": "",
+          "punteggio": ""
+        },
+        "vincitore": "",
+        "note": ""
+      }
+    },
+    {
+      "localita": "Cortina d'Ampezzo",
+      "zona": "Cortina",
+      "evento": "Curling - Round robin uomini 7",
+      "orario": "19:05 - 22:05",
+      "risultati": {
+        "squadra_1": {
+          "nome": "",
+          "paese": "",
+          "punteggio": ""
+        },
+        "squadra_2": {
+          "nome": "",
+          "paese": "",
+          "punteggio": ""
+        },
+        "vincitore": "",
+        "note": ""
+      }
+    },
+    {
+      "localita": "Milano",
+      "zona": "Milano",
+      "evento": "Pattinaggio di figura - Coppie programma corto",
+      "orario": "19:45 - 22:25",
+      "risultati": {
+        "classifica_dopo_programma_corto": [
+          {
+            "posizione": 1,
+            "coppia": "",
+            "paese": "",
+            "punteggio": ""
+          },
+          {
+            "posizione": 2,
+            "coppia": "",
+            "paese": "",
+            "punteggio": ""
+          },
+          {
+            "posizione": 3,
+            "coppia": "",
+            "paese": "",
+            "punteggio": ""
+          }
+        ],
+        "note": "Prima parte della competizione, continua con il programma libero"
+      }
+    },
+    {
+      "localita": "Livigno",
+      "zona": "Valtellina",
+      "evento": "Sci freestyle - Finale dual moguls uomini",
+      "orario": "10:30 - 12:05",
+      "tipo": "finale_medaglia",
+      "risultati": {
+        "medaglie": {
+          "oro": {
+            "atleta": "",
+            "paese": "",
+            "punteggio_finale": ""
+          },
+          "argento": {
+            "atleta": "",
+            "paese": "",
+            "punteggio_finale": ""
+          },
+          "bronzo": {
+            "atleta": "",
+            "paese": "",
+            "punteggio_finale": ""
+          }
+        },
+        "risultati_finali": {
+          "finale_oro": {
+            "atleta_1": {"nome": "", "paese": "", "punteggio": ""},
+            "atleta_2": {"nome": "", "paese": "", "punteggio": ""},
+            "vincitore": ""
+          },
+          "finale_bronzo": {
+            "atleta_1": {"nome": "", "paese": "", "punteggio": ""},
+            "atleta_2": {"nome": "", "paese": "", "punteggio": ""},
+            "vincitore": ""
+          }
+        },
+        "note": ""
+      }
+    },
+    {
+      "localita": "Livigno",
+      "zona": "Valtellina",
+      "evento": "Sci freestyle - Qualificazione freeski big air uomini",
+      "orario": "19:30 - 21:45",
+      "risultati": {
+        "qualificati": [],
+        "classifica_qualificazioni": [
+          {
+            "posizione": 1,
+            "atleta": "",
+            "paese": "",
+            "punteggio": ""
+          },
+          {
+            "posizione": 2,
+            "atleta": "",
+            "paese": "",
+            "punteggio": ""
+          },
+          {
+            "posizione": 3,
+            "atleta": "",
+            "paese": "",
+            "punteggio": ""
+          }
+        ],
+        "note": ""
+      }
+    },
+    {
+      "localita": "Milano",
+      "zona": "Milano",
+      "evento": "Hockey su ghiaccio - Turno preliminare uomini",
+      "orario": "12:10 - 14:40",
+      "risultati": {
+        "squadra_1": {
+          "nome": "",
+          "paese": "",
+          "punteggio": ""
+        },
+        "squadra_2": {
+          "nome": "",
+          "paese": "",
+          "punteggio": ""
+        },
+        "vincitore": "",
+        "note": ""
+      }
+    },
+    {
+      "localita": "Milano",
+      "zona": "Milano",
+      "evento": "Hockey su ghiaccio - Turno preliminare uomini",
+      "orario": "16:40 - 19:10",
+      "risultati": {
+        "squadra_1": {
+          "nome": "",
+          "paese": "",
+          "punteggio": ""
+        },
+        "squadra_2": {
+          "nome": "",
+          "paese": "",
+          "punteggio": ""
+        },
+        "vincitore": "",
+        "note": ""
+      }
+    },
+    {
+      "localita": "Milano",
+      "zona": "Milano",
+      "evento": "Hockey su ghiaccio - Turno preliminare uomini",
+      "orario": "19:10 - 21:40",
+      "risultati": {
+        "squadra_1": {
+          "nome": "",
+          "paese": "",
+          "punteggio": ""
+        },
+        "squadra_2": {
+          "nome": "",
+          "paese": "",
+          "punteggio": ""
+        },
+        "vincitore": "",
+        "note": ""
+      }
+    },
+    {
+      "localita": "Milano",
+      "zona": "Milano",
+      "evento": "Hockey su ghiaccio - Turno preliminare uomini",
+      "orario": "21:10 - 23:40",
+      "risultati": {
+        "squadra_1": {
+          "nome": "",
+          "paese": "",
+          "punteggio": ""
+        },
+        "squadra_2": {
+          "nome": "",
+          "paese": "",
+          "punteggio": ""
+        },
+        "vincitore": "",
+        "note": ""
+      }
+    },
+    {
+      "localita": "Cortina d'Ampezzo",
+      "zona": "Cortina",
+      "evento": "Skeleton - Squadre miste",
+      "orario": "18:00 - 20:00",
+      "tipo": "finale_medaglia",
+      "risultati": {
+        "medaglie": {
+          "oro": {
+            "squadra": "",
+            "paese": "",
+            "atleti": ["", ""],
+            "tempo_totale": ""
+          },
+          "argento": {
+            "squadra": "",
+            "paese": "",
+            "atleti": ["", ""],
+            "tempo_totale": ""
+          },
+          "bronzo": {
+            "squadra": "",
+            "paese": "",
+            "atleti": ["", ""],
+            "tempo_totale": ""
+          }
+        },
+        "classifica_finale": [
+          {
+            "posizione": 1,
+            "squadra": "",
+            "paese": "",
+            "atleti": ["", ""],
+            "tempo_uomo": "",
+            "tempo_donna": "",
+            "tempo_totale": ""
+          },
+          {
+            "posizione": 2,
+            "squadra": "",
+            "paese": "",
+            "atleti": ["", ""],
+            "tempo_uomo": "",
+            "tempo_donna": "",
+            "tempo_totale": ""
+          },
+          {
+            "posizione": 3,
+            "squadra": "",
+            "paese": "",
+            "atleti": ["", ""],
+            "tempo_uomo": "",
+            "tempo_donna": "",
+            "tempo_totale": ""
+          }
+        ],
+        "note": ""
+      }
+    },
+    {
+      "localita": "Predazzo",
+      "zona": "Val di Fiemme",
+      "evento": "Salto con gli sci - Individuale donne trampolino lungo",
+      "orario": "18:45 - 21:05",
+      "tipo": "finale_medaglia",
+      "risultati": {
+        "medaglie": {
+          "oro": {
+            "atleta": "",
+            "paese": "",
+            "punteggio_totale": ""
+          },
+          "argento": {
+            "atleta": "",
+            "paese": "",
+            "punteggio_totale": ""
+          },
+          "bronzo": {
+            "atleta": "",
+            "paese": "",
+            "punteggio_totale": ""
+          }
+        },
+        "classifica_completa": [
+          {
+            "posizione": 1,
+            "atleta": "",
+            "paese": "",
+            "salto_1": "",
+            "salto_2": "",
+            "punteggio_totale": ""
+          },
+          {
+            "posizione": 2,
+            "atleta": "",
+            "paese": "",
+            "salto_1": "",
+            "salto_2": "",
+            "punteggio_totale": ""
+          },
+          {
+            "posizione": 3,
+            "atleta": "",
+            "paese": "",
+            "salto_1": "",
+            "salto_2": "",
+            "punteggio_totale": ""
+          }
+        ],
+        "note": ""
+      }
+    },
+    {
+      "localita": "Livigno",
+      "zona": "Valtellina",
+      "evento": "Snowboard - Qualificazioni snowboard cross squadre miste",
+      "orario": "11:00 - 12:30",
+      "risultati": {
+        "qualificate": [],
+        "classifica_qualificazioni": [
+          {
+            "posizione": 1,
+            "squadra": "",
+            "paese": "",
+            "atleti": ["", ""],
+            "tempo": ""
+          },
+          {
+            "posizione": 2,
+            "squadra": "",
+            "paese": "",
+            "atleti": ["", ""],
+            "tempo": ""
+          },
+          {
+            "posizione": 3,
+            "squadra": "",
+            "paese": "",
+            "atleti": ["", ""],
+            "tempo": ""
+          }
+        ],
+        "note": ""
+      }
+    },
+    {
+      "localita": "Livigno",
+      "zona": "Valtellina",
+      "evento": "Snowboard - Finali snowboard squadre miste",
+      "orario": "13:45 - 15:05",
+      "tipo": "finale_medaglia",
+      "risultati": {
+        "medaglie": {
+          "oro": {
+            "squadra": "",
+            "paese": "",
+            "atleti": ["", ""],
+            "tempo": ""
+          },
+          "argento": {
+            "squadra": "",
+            "paese": "",
+            "atleti": ["", ""],
+            "tempo": ""
+          },
+          "bronzo": {
+            "squadra": "",
+            "paese": "",
+            "atleti": ["", ""],
+            "tempo": ""
+          }
+        },
+        "risultati_finali": {
+          "big_final": {
+            "squadra_1": {"nome": "", "paese": "", "atleti": ["", ""], "tempo": ""},
+            "squadra_2": {"nome": "", "paese": "", "atleti": ["", ""], "tempo": ""},
+            "squadra_3": {"nome": "", "paese": "", "atleti": ["", ""], "tempo": ""},
+            "squadra_4": {"nome": "", "paese": "", "atleti": ["", ""], "tempo": ""}
+          },
+          "small_final": {
+            "squadra_1": {"nome": "", "paese": "", "atleti": ["", ""], "tempo": ""},
+            "squadra_2": {"nome": "", "paese": "", "atleti": ["", ""], "tempo": ""},
+            "squadra_3": {"nome": "", "paese": "", "atleti": ["", ""], "tempo": ""},
+            "squadra_4": {"nome": "", "paese": "", "atleti": ["", ""], "tempo": ""}
+          }
+        },
+        "note": ""
+      }
+    },
+    {
+      "localita": "Milano",
+      "zona": "Milano",
+      "evento": "Pattinaggio di velocità - Qualificazioni inseguimento a squadre uomini; 500m donne",
+      "orario": "16:00 - 18:05",
+      "tipo": "finale_medaglia",
+      "risultati": {
+        "500m_donne": {
+          "medaglie": {
+            "oro": {
+              "atleta": "",
+              "paese": "",
+              "tempo": ""
+            },
+            "argento": {
+              "atleta": "",
+              "paese": "",
+              "tempo": ""
+            },
+            "bronzo": {
+              "atleta": "",
+              "paese": "",
+              "tempo": ""
+            }
+          },
+          "classifica_finale": [
+            {
+              "posizione": 1,
+              "atleta": "",
+              "paese": "",
+              "tempo": ""
+            },
+            {
+              "posizione": 2,
+              "atleta": "",
+              "paese": "",
+              "tempo": ""
+            },
+            {
+              "posizione": 3,
+              "atleta": "",
+              "paese": "",
+              "tempo": ""
+            }
+          ]
+        },
+        "qualificazioni_inseguimento_squadre_uomini": {
+          "qualificate": [],
+          "classifica_qualificazioni": [
+            {
+              "posizione": 1,
+              "squadra": "",
+              "paese": "",
+              "tempo": ""
+            },
+            {
+              "posizione": 2,
+              "squadra": "",
+              "paese": "",
+              "tempo": ""
+            },
+            {
+              "posizione": 3,
+              "squadra": "",
+              "paese": "",
+              "tempo": ""
+            }
+          ]
+        },
+        "note": ""
+      }
+    }
+  ],
+  "totale_eventi": 21,
+  "eventi_medaglia": 9
+}
