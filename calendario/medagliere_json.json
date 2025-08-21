@@ -2,7 +2,7 @@
   "last_update": "2024-08-21T10:00:00Z",
   "version": "1.0.0",
   "total_medals": {
-    "gold": 0,
+    "gold": 1,
     "silver": 0,
     "bronze": 0,
     "total": 0
@@ -13,10 +13,10 @@
       "country": "Italia",
       "code": "ITA",
       "flag": "🇮🇹",
-      "gold": 0,
+      "gold": 1,
       "silver": 0,
       "bronze": 0,
-      "total": 0
+      "total": 1
     },
     {
       "rank": 2,
