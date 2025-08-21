@@ -1,0 +1,28 @@
+{
+  "data": "2026-02-04",
+  "giorno": "Mercoledì 4 febbraio 2026 – Giorno -2",
+  "eventi": [
+    {
+      "localita": "Cortina d'Ampezzo",
+      "zona": "Cortina",
+      "evento": "Curling - Round robin doppio misto",
+      "orario": "19:05 - 21:05",
+      "risultati": {
+        "squadra_1": {
+          "nomi": "",
+          "paese": "",
+          "punteggio": ""
+        },
+        "squadra_2": {
+          "nomi": "",
+          "paese": "",
+          "punteggio": ""
+        },
+        "vincitore": "",
+        "note": ""
+      }
+    }
+  ],
+  "totale_eventi": 1,
+  "eventi_medaglia": 0
+}
