@@ -1,0 +1,140 @@
+{
+  "data": "2026-02-06",
+  "giorno": "Venerdì 6 febbraio 2026 – Giorno 0",
+  "eventi": [
+    {
+      "localita": "Cortina d'Ampezzo",
+      "zona": "Cortina",
+      "evento": "Curling - Round robin doppio misto",
+      "orario": "10:05 - 12:05",
+      "risultati": {
+        "squadra_1": {
+          "nomi": "",
+          "paese": "",
+          "punteggio": ""
+        },
+        "squadra_2": {
+          "nomi": "",
+          "paese": "",
+          "punteggio": ""
+        },
+        "vincitore": "",
+        "note": ""
+      }
+    },
+    {
+      "localita": "Cortina d'Ampezzo",
+      "zona": "Cortina",
+      "evento": "Curling - Round robin doppio misto",
+      "orario": "14:35 - 16:35",
+      "risultati": {
+        "squadra_1": {
+          "nomi": "",
+          "paese": "",
+          "punteggio": ""
+        },
+        "squadra_2": {
+          "nomi": "",
+          "paese": "",
+          "punteggio": ""
+        },
+        "vincitore": "",
+        "note": ""
+      }
+    },
+    {
+      "localita": "Milano",
+      "zona": "Milano",
+      "evento": "Pattinaggio di figura - Team event (danza sul ghiaccio, danza ritmica, programma breve coppie, programma breve individuale donne)",
+      "orario": "09:55 - 14:55",
+      "risultati": {
+        "classifica_squadre": [
+          {
+            "posizione": 1,
+            "paese": "",
+            "punteggio_totale": ""
+          },
+          {
+            "posizione": 2,
+            "paese": "",
+            "punteggio_totale": ""
+          },
+          {
+            "posizione": 3,
+            "paese": "",
+            "punteggio_totale": ""
+          }
+        ],
+        "risultati_disciplina": {
+          "danza_ritmica": {
+            "primo": {"coppia": "", "paese": "", "punteggio": ""},
+            "secondo": {"coppia": "", "paese": "", "punteggio": ""},
+            "terzo": {"coppia": "", "paese": "", "punteggio": ""}
+          },
+          "programma_breve_coppie": {
+            "primo": {"coppia": "", "paese": "", "punteggio": ""},
+            "secondo": {"coppia": "", "paese": "", "punteggio": ""},
+            "terzo": {"coppia": "", "paese": "", "punteggio": ""}
+          },
+          "programma_breve_donne": {
+            "primo": {"atleta": "", "paese": "", "punteggio": ""},
+            "secondo": {"atleta": "", "paese": "", "punteggio": ""},
+            "terzo": {"atleta": "", "paese": "", "punteggio": ""}
+          }
+        },
+        "note": ""
+      }
+    },
+    {
+      "localita": "Milano",
+      "zona": "Milano",
+      "evento": "Hockey su ghiaccio - Turno preliminare donne",
+      "orario": "12:10 - 14:40",
+      "risultati": {
+        "squadra_1": {
+          "nome": "",
+          "paese": "",
+          "punteggio": ""
+        },
+        "squadra_2": {
+          "nome": "",
+          "paese": "",
+          "punteggio": ""
+        },
+        "vincitore": "",
+        "note": ""
+      }
+    },
+    {
+      "localita": "Milano",
+      "zona": "Milano",
+      "evento": "Hockey su ghiaccio - Turno preliminare donne",
+      "orario": "14:40 - 17:10",
+      "risultati": {
+        "squadra_1": {
+          "nome": "",
+          "paese": "",
+          "punteggio": ""
+        },
+        "squadra_2": {
+          "nome": "",
+          "paese": "",
+          "punteggio": ""
+        },
+        "vincitore": "",
+        "note": ""
+      }
+    },
+    {
+      "localita": "Milano (San Siro)",
+      "zona": "Milano",
+      "evento": "Cerimonia d'Apertura",
+      "orario": "20:00 - 23:00",
+      "risultati": {
+        "note": "Cerimonia inaugurale delle Olimpiadi Invernali Milano-Cortina 2026"
+      }
+    }
+  ],
+  "totale_eventi": 6,
+  "eventi_medaglia": 0
+}
