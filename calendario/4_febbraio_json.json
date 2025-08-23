@@ -9,16 +9,16 @@
       "orario": "19:05 - 21:05",
       "risultati": {
         "squadra_1": {
-          "nomi": "",
+          "nomi": "Luigi-Daria",
           "paese": "",
-          "punteggio": ""
+          "punteggio": "12"
         },
         "squadra_2": {
-          "nomi": "",
+          "nomi": "CAnne-Staf",
           "paese": "",
-          "punteggio": ""
+          "punteggio": "14"
         },
-        "vincitore": "",
+        "vincitore": "squadra_2",
         "note": ""
       }
     },
@@ -86,4 +86,3 @@
   "totale_eventi": 4,
   "eventi_medaglia": 0
 }
-
