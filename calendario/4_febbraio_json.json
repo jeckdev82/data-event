@@ -9,16 +9,16 @@
       "orario": "19:05 - 21:05",
       "risultati": {
         "squadra_1": {
-          "nomi": "",
+          "nomi": "Luigi",
           "paese": "",
-          "punteggio": ""
+          "punteggio": "12"
         },
         "squadra_2": {
-          "nomi": "",
+          "nomi": "Marco",
           "paese": "",
-          "punteggio": ""
+          "punteggio": "21"
         },
-        "vincitore": "",
+        "vincitore": "squadra_2",
         "note": ""
       }
     }
