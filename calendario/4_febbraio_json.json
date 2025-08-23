@@ -61,8 +61,29 @@
         "vincitore": "",
         "note": ""
       }
+    },
+    {
+      "localita": "Cortina d'Ampezzo",
+      "zona": "Cortina",
+      "evento": "Curling - Round robin doppio misto (Partita 1)",
+      "orario": "19:05 - 21:05",
+      "risultati": {
+        "squadra_1": {
+          "nomi": "Luigi-Daria",
+          "paese": "",
+          "punteggio": ""
+        },
+        "squadra_2": {
+          "nomi": "CAnne-Staf",
+          "paese": "",
+          "punteggio": ""
+        },
+        "vincitore": "",
+        "note": ""
+      },
+      "data": "2026-02-04"
     }
   ],
-  "totale_eventi": 3,
+  "totale_eventi": 4,
   "eventi_medaglia": 0
 }
