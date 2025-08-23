@@ -11,14 +11,14 @@
         "squadra_1": {
           "nomi": "Luigi-Daria",
           "paese": "",
-          "punteggio": "12"
+          "punteggio": ""
         },
         "squadra_2": {
           "nomi": "CAnne-Staf",
           "paese": "",
-          "punteggio": "14"
+          "punteggio": ""
         },
-        "vincitore": "squadra_2",
+        "vincitore": "",
         "note": ""
       }
     },
