@@ -1,11 +1,11 @@
 {
-  "last_update": "2024-08-21T10:00:00Z",
+  "last_update": "2025-08-23T15:09:21.925Z",
   "version": "1.0.0",
   "total_medals": {
-    "gold": 2,
-    "silver": 0,
-    "bronze": 0,
-    "total": 2
+    "gold": 5,
+    "silver": 2,
+    "bronze": 1,
+    "total": 8
   },
   "countries": [
     {
@@ -13,273 +13,23 @@
       "country": "Italia",
       "code": "ITA",
       "flag": "🇮🇹",
-      "gold": 1,
+      "gold": 3,
       "silver": 1,
       "bronze": 1,
-      "total": 3
+      "total": 5
     },
     {
       "rank": 2,
       "country": "Stati Uniti",
       "code": "USA",
       "flag": "🇺🇸",
-      "gold": 3,
+      "gold": 2,
       "silver": 1,
       "bronze": 0,
-      "total": 4
+      "total": 3
     },
     {
       "rank": 3,
-      "country": "Germania",
-      "code": "GER",
-      "flag": "🇩🇪",
-      "gold": 0,
-      "silver": 0,
-      "bronze": 0,
-      "total": 0
-    },
-    {
-      "rank": 4,
-      "country": "Norvegia",
-      "code": "NOR",
-      "flag": "🇳🇴",
-      "gold": 0,
-      "silver": 0,
-      "bronze": 0,
-      "total": 0
-    },
-    {
-      "rank": 5,
-      "country": "Canada",
-      "code": "CAN",
-      "flag": "🇨🇦",
-      "gold": 0,
-      "silver": 0,
-      "bronze": 0,
-      "total": 0
-    },
-    {
-      "rank": 6,
-      "country": "Francia",
-      "code": "FRA",
-      "flag": "🇫🇷",
-      "gold": 0,
-      "silver": 0,
-      "bronze": 0,
-      "total": 0
-    },
-    {
-      "rank": 7,
-      "country": "Austria",
-      "code": "AUT",
-      "flag": "🇦🇹",
-      "gold": 0,
-      "silver": 0,
-      "bronze": 0,
-      "total": 0
-    },
-    {
-      "rank": 8,
-      "country": "Svizzera",
-      "code": "SUI",
-      "flag": "🇨🇭",
-      "gold": 0,
-      "silver": 0,
-      "bronze": 0,
-      "total": 0
-    },
-    {
-      "rank": 9,
-      "country": "Svezia",
-      "code": "SWE",
-      "flag": "🇸🇪",
-      "gold": 0,
-      "silver": 0,
-      "bronze": 0,
-      "total": 0
-    },
-    {
-      "rank": 10,
-      "country": "Finlandia",
-      "code": "FIN",
-      "flag": "🇫🇮",
-      "gold": 0,
-      "silver": 0,
-      "bronze": 0,
-      "total": 0
-    },
-    {
-      "rank": 11,
-      "country": "Paesi Bassi",
-      "code": "NED",
-      "flag": "🇳🇱",
-      "gold": 0,
-      "silver": 0,
-      "bronze": 0,
-      "total": 0
-    },
-    {
-      "rank": 12,
-      "country": "Russia",
-      "code": "RUS",
-      "flag": "🇷🇺",
-      "gold": 0,
-      "silver": 0,
-      "bronze": 0,
-      "total": 0
-    },
-    {
-      "rank": 13,
-      "country": "Cina",
-      "code": "CHN",
-      "flag": "🇨🇳",
-      "gold": 0,
-      "silver": 0,
-      "bronze": 0,
-      "total": 0
-    },
-    {
-      "rank": 14,
-      "country": "Giappone",
-      "code": "JPN",
-      "flag": "🇯🇵",
-      "gold": 0,
-      "silver": 0,
-      "bronze": 0,
-      "total": 0
-    },
-    {
-      "rank": 15,
-      "country": "Corea del Sud",
-      "code": "KOR",
-      "flag": "🇰🇷",
-      "gold": 0,
-      "silver": 0,
-      "bronze": 0,
-      "total": 0
-    },
-    {
-      "rank": 16,
-      "country": "Repubblica Ceca",
-      "code": "CZE",
-      "flag": "🇨🇿",
-      "gold": 0,
-      "silver": 0,
-      "bronze": 0,
-      "total": 0
-    },
-    {
-      "rank": 17,
-      "country": "Slovenia",
-      "code": "SLO",
-      "flag": "🇸🇮",
-      "gold": 0,
-      "silver": 0,
-      "bronze": 0,
-      "total": 0
-    },
-    {
-      "rank": 18,
-      "country": "Polonia",
-      "code": "POL",
-      "flag": "🇵🇱",
-      "gold": 0,
-      "silver": 0,
-      "bronze": 0,
-      "total": 0
-    },
-    {
-      "rank": 19,
-      "country": "Slovacchia",
-      "code": "SVK",
-      "flag": "🇸🇰",
-      "gold": 0,
-      "silver": 0,
-      "bronze": 0,
-      "total": 0
-    },
-    {
-      "rank": 20,
-      "country": "Belgio",
-      "code": "BEL",
-      "flag": "🇧🇪",
-      "gold": 0,
-      "silver": 0,
-      "bronze": 0,
-      "total": 0
-    },
-    {
-      "rank": 21,
-      "country": "Croazia",
-      "code": "CRO",
-      "flag": "🇭🇷",
-      "gold": 0,
-      "silver": 0,
-      "bronze": 0,
-      "total": 0
-    },
-    {
-      "rank": 22,
-      "country": "Ucraina",
-      "code": "UKR",
-      "flag": "🇺🇦",
-      "gold": 0,
-      "silver": 0,
-      "bronze": 0,
-      "total": 0
-    },
-    {
-      "rank": 23,
-      "country": "Danimarca",
-      "code": "DEN",
-      "flag": "🇩🇰",
-      "gold": 0,
-      "silver": 0,
-      "bronze": 0,
-      "total": 0
-    },
-    {
-      "rank": 24,
-      "country": "Estonia",
-      "code": "EST",
-      "flag": "🇪🇪",
-      "gold": 0,
-      "silver": 0,
-      "bronze": 0,
-      "total": 0
-    },
-    {
-      "rank": 25,
-      "country": "Lettonia",
-      "code": "LAT",
-      "flag": "🇱🇻",
-      "gold": 0,
-      "silver": 0,
-      "bronze": 0,
-      "total": 0
-    },
-    {
-      "rank": 26,
-      "country": "Lituania",
-      "code": "LTU",
-      "flag": "🇱🇹",
-      "gold": 0,
-      "silver": 0,
-      "bronze": 0,
-      "total": 0
-    },
-    {
-      "rank": 27,
-      "country": "Regno Unito",
-      "code": "GBR",
-      "flag": "🇬🇧",
-      "gold": 0,
-      "silver": 0,
-      "bronze": 0,
-      "total": 0
-    },
-    {
-      "rank": 28,
       "country": "Australia",
       "code": "AUS",
       "flag": "🇦🇺",
@@ -289,97 +39,27 @@
       "total": 0
     },
     {
-      "rank": 29,
-      "country": "Nuova Zelanda",
-      "code": "NZL",
-      "flag": "🇳🇿",
+      "rank": 4,
+      "country": "Austria",
+      "code": "AUT",
+      "flag": "🇦🇹",
       "gold": 0,
       "silver": 0,
       "bronze": 0,
       "total": 0
     },
     {
-      "rank": 30,
-      "country": "Brasile",
-      "code": "BRA",
-      "flag": "🇧🇷",
+      "rank": 5,
+      "country": "Belgio",
+      "code": "BEL",
+      "flag": "🇧🇪",
       "gold": 0,
       "silver": 0,
       "bronze": 0,
       "total": 0
     },
     {
-      "rank": 31,
-      "country": "Spagna",
-      "code": "ESP",
-      "flag": "🇪🇸",
-      "gold": 0,
-      "silver": 0,
-      "bronze": 0,
-      "total": 0
-    },
-    {
-      "rank": 32,
-      "country": "Portogallo",
-      "code": "POR",
-      "flag": "🇵🇹",
-      "gold": 0,
-      "silver": 0,
-      "bronze": 0,
-      "total": 0
-    },
-    {
-      "rank": 33,
-      "country": "Islanda",
-      "code": "ISL",
-      "flag": "🇮🇸",
-      "gold": 0,
-      "silver": 0,
-      "bronze": 0,
-      "total": 0
-    },
-    {
-      "rank": 34,
-      "country": "Kazakistan",
-      "code": "KAZ",
-      "flag": "🇰🇿",
-      "gold": 0,
-      "silver": 0,
-      "bronze": 0,
-      "total": 0
-    },
-    {
-      "rank": 35,
-      "country": "Bulgaria",
-      "code": "BUL",
-      "flag": "🇧🇬",
-      "gold": 0,
-      "silver": 0,
-      "bronze": 0,
-      "total": 0
-    },
-    {
-      "rank": 36,
-      "country": "Romania",
-      "code": "ROU",
-      "flag": "🇷🇴",
-      "gold": 0,
-      "silver": 0,
-      "bronze": 0,
-      "total": 0
-    },
-    {
-      "rank": 37,
-      "country": "Ungheria",
-      "code": "HUN",
-      "flag": "🇭🇺",
-      "gold": 0,
-      "silver": 0,
-      "bronze": 0,
-      "total": 0
-    },
-    {
-      "rank": 38,
+      "rank": 6,
       "country": "Bielorussia",
       "code": "BLR",
       "flag": "🇧🇾",
@@ -389,7 +69,107 @@
       "total": 0
     },
     {
-      "rank": 39,
+      "rank": 7,
+      "country": "Brasile",
+      "code": "BRA",
+      "flag": "🇧🇷",
+      "gold": 0,
+      "silver": 0,
+      "bronze": 0,
+      "total": 0
+    },
+    {
+      "rank": 8,
+      "country": "Bulgaria",
+      "code": "BUL",
+      "flag": "🇧🇬",
+      "gold": 0,
+      "silver": 0,
+      "bronze": 0,
+      "total": 0
+    },
+    {
+      "rank": 9,
+      "country": "Canada",
+      "code": "CAN",
+      "flag": "🇨🇦",
+      "gold": 0,
+      "silver": 0,
+      "bronze": 0,
+      "total": 0
+    },
+    {
+      "rank": 10,
+      "country": "Cina",
+      "code": "CHN",
+      "flag": "🇨🇳",
+      "gold": 0,
+      "silver": 0,
+      "bronze": 0,
+      "total": 0
+    },
+    {
+      "rank": 11,
+      "country": "Corea del Sud",
+      "code": "KOR",
+      "flag": "🇰🇷",
+      "gold": 0,
+      "silver": 0,
+      "bronze": 0,
+      "total": 0
+    },
+    {
+      "rank": 12,
+      "country": "Croazia",
+      "code": "CRO",
+      "flag": "🇭🇷",
+      "gold": 0,
+      "silver": 0,
+      "bronze": 0,
+      "total": 0
+    },
+    {
+      "rank": 13,
+      "country": "Danimarca",
+      "code": "DEN",
+      "flag": "🇩🇰",
+      "gold": 0,
+      "silver": 0,
+      "bronze": 0,
+      "total": 0
+    },
+    {
+      "rank": 14,
+      "country": "Estonia",
+      "code": "EST",
+      "flag": "🇪🇪",
+      "gold": 0,
+      "silver": 0,
+      "bronze": 0,
+      "total": 0
+    },
+    {
+      "rank": 15,
+      "country": "Finlandia",
+      "code": "FIN",
+      "flag": "🇫🇮",
+      "gold": 0,
+      "silver": 0,
+      "bronze": 0,
+      "total": 0
+    },
+    {
+      "rank": 16,
+      "country": "Francia",
+      "code": "FRA",
+      "flag": "🇫🇷",
+      "gold": 0,
+      "silver": 0,
+      "bronze": 0,
+      "total": 0
+    },
+    {
+      "rank": 17,
       "country": "Georgia",
       "code": "GEO",
       "flag": "🇬🇪",
@@ -399,10 +179,230 @@
       "total": 0
     },
     {
-      "rank": 40,
+      "rank": 18,
+      "country": "Germania",
+      "code": "GER",
+      "flag": "🇩🇪",
+      "gold": 0,
+      "silver": 0,
+      "bronze": 0,
+      "total": 0
+    },
+    {
+      "rank": 19,
+      "country": "Giappone",
+      "code": "JPN",
+      "flag": "🇯🇵",
+      "gold": 0,
+      "silver": 0,
+      "bronze": 0,
+      "total": 0
+    },
+    {
+      "rank": 20,
+      "country": "Islanda",
+      "code": "ISL",
+      "flag": "🇮🇸",
+      "gold": 0,
+      "silver": 0,
+      "bronze": 0,
+      "total": 0
+    },
+    {
+      "rank": 21,
+      "country": "Kazakistan",
+      "code": "KAZ",
+      "flag": "🇰🇿",
+      "gold": 0,
+      "silver": 0,
+      "bronze": 0,
+      "total": 0
+    },
+    {
+      "rank": 22,
+      "country": "Lettonia",
+      "code": "LAT",
+      "flag": "🇱🇻",
+      "gold": 0,
+      "silver": 0,
+      "bronze": 0,
+      "total": 0
+    },
+    {
+      "rank": 23,
+      "country": "Lituania",
+      "code": "LTU",
+      "flag": "🇱🇹",
+      "gold": 0,
+      "silver": 0,
+      "bronze": 0,
+      "total": 0
+    },
+    {
+      "rank": 24,
       "country": "Moldova",
       "code": "MDA",
       "flag": "🇲🇩",
+      "gold": 0,
+      "silver": 0,
+      "bronze": 0,
+      "total": 0
+    },
+    {
+      "rank": 25,
+      "country": "Norvegia",
+      "code": "NOR",
+      "flag": "🇳🇴",
+      "gold": 0,
+      "silver": 0,
+      "bronze": 0,
+      "total": 0
+    },
+    {
+      "rank": 26,
+      "country": "Nuova Zelanda",
+      "code": "NZL",
+      "flag": "🇳🇿",
+      "gold": 0,
+      "silver": 0,
+      "bronze": 0,
+      "total": 0
+    },
+    {
+      "rank": 27,
+      "country": "Paesi Bassi",
+      "code": "NED",
+      "flag": "🇳🇱",
+      "gold": 0,
+      "silver": 0,
+      "bronze": 0,
+      "total": 0
+    },
+    {
+      "rank": 28,
+      "country": "Polonia",
+      "code": "POL",
+      "flag": "🇵🇱",
+      "gold": 0,
+      "silver": 0,
+      "bronze": 0,
+      "total": 0
+    },
+    {
+      "rank": 29,
+      "country": "Portogallo",
+      "code": "POR",
+      "flag": "🇵🇹",
+      "gold": 0,
+      "silver": 0,
+      "bronze": 0,
+      "total": 0
+    },
+    {
+      "rank": 30,
+      "country": "Regno Unito",
+      "code": "GBR",
+      "flag": "🇬🇧",
+      "gold": 0,
+      "silver": 0,
+      "bronze": 0,
+      "total": 0
+    },
+    {
+      "rank": 31,
+      "country": "Repubblica Ceca",
+      "code": "CZE",
+      "flag": "🇨🇿",
+      "gold": 0,
+      "silver": 0,
+      "bronze": 0,
+      "total": 0
+    },
+    {
+      "rank": 32,
+      "country": "Romania",
+      "code": "ROU",
+      "flag": "🇷🇴",
+      "gold": 0,
+      "silver": 0,
+      "bronze": 0,
+      "total": 0
+    },
+    {
+      "rank": 33,
+      "country": "Russia",
+      "code": "RUS",
+      "flag": "🇷🇺",
+      "gold": 0,
+      "silver": 0,
+      "bronze": 0,
+      "total": 0
+    },
+    {
+      "rank": 34,
+      "country": "Slovacchia",
+      "code": "SVK",
+      "flag": "🇸🇰",
+      "gold": 0,
+      "silver": 0,
+      "bronze": 0,
+      "total": 0
+    },
+    {
+      "rank": 35,
+      "country": "Slovenia",
+      "code": "SLO",
+      "flag": "🇸🇮",
+      "gold": 0,
+      "silver": 0,
+      "bronze": 0,
+      "total": 0
+    },
+    {
+      "rank": 36,
+      "country": "Spagna",
+      "code": "ESP",
+      "flag": "🇪🇸",
+      "gold": 0,
+      "silver": 0,
+      "bronze": 0,
+      "total": 0
+    },
+    {
+      "rank": 37,
+      "country": "Svezia",
+      "code": "SWE",
+      "flag": "🇸🇪",
+      "gold": 0,
+      "silver": 0,
+      "bronze": 0,
+      "total": 0
+    },
+    {
+      "rank": 38,
+      "country": "Svizzera",
+      "code": "SUI",
+      "flag": "🇨🇭",
+      "gold": 0,
+      "silver": 0,
+      "bronze": 0,
+      "total": 0
+    },
+    {
+      "rank": 39,
+      "country": "Ucraina",
+      "code": "UKR",
+      "flag": "🇺🇦",
+      "gold": 0,
+      "silver": 0,
+      "bronze": 0,
+      "total": 0
+    },
+    {
+      "rank": 40,
+      "country": "Ungheria",
+      "code": "HUN",
+      "flag": "🇭🇺",
       "gold": 0,
       "silver": 0,
       "bronze": 0,
@@ -413,9 +413,18 @@
     {
       "date": "2026-02-07",
       "event": "Sci alpino - Discesa libera uomini",
-      "gold": {"country": "", "athlete": ""},
-      "silver": {"country": "", "athlete": ""},
-      "bronze": {"country": "", "athlete": ""}
+      "gold": {
+        "country": "",
+        "athlete": ""
+      },
+      "silver": {
+        "country": "",
+        "athlete": ""
+      },
+      "bronze": {
+        "country": "",
+        "athlete": ""
+      }
     }
   ]
 }
