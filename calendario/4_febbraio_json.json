@@ -5,17 +5,39 @@
     {
       "localita": "Cortina d'Ampezzo",
       "zona": "Cortina",
-      "evento": "Curling - Round robin doppio misto (Partita 2)",
+      "evento": "Curling - Fase a gironi Doppio misto: Svezia vs QB",
       "orario": "19:05 - 21:05",
+      "tipo": "qualificazione",
       "risultati": {
         "squadra_1": {
-          "nomi": "",
-          "paese": "",
+          "nomi": "Svezia",
+          "paese": "SWE",
           "punteggio": ""
         },
         "squadra_2": {
-          "nomi": "",
-          "paese": "",
+          "nomi": "QB (Qualificatore B)",
+          "paese": "TBD",
+          "punteggio": ""
+        },
+        "vincitore": "",
+        "note": "In attesa del risultato delle qualificazioni per determinare QB"
+      }
+    },
+    {
+      "localita": "Cortina d'Ampezzo",
+      "zona": "Cortina",
+      "evento": "Curling - Fase a gironi Doppio misto: Gran Bretagna vs Norvegia",
+      "orario": "19:05 - 21:05",
+      "tipo": "qualificazione",
+      "risultati": {
+        "squadra_1": {
+          "nomi": "Gran Bretagna",
+          "paese": "GBR",
+          "punteggio": ""
+        },
+        "squadra_2": {
+          "nomi": "Norvegia",
+          "paese": "NOR",
           "punteggio": ""
         },
         "vincitore": "",
@@ -25,63 +47,44 @@
     {
       "localita": "Cortina d'Ampezzo",
       "zona": "Cortina",
-      "evento": "Curling - Round robin doppio misto (Partita 3)",
+      "evento": "Curling - Fase a gironi Doppio misto: Canada vs QA",
       "orario": "19:05 - 21:05",
+      "tipo": "qualificazione",
       "risultati": {
         "squadra_1": {
-          "nomi": "",
-          "paese": "",
+          "nomi": "Canada",
+          "paese": "CAN",
           "punteggio": ""
         },
         "squadra_2": {
-          "nomi": "",
-          "paese": "",
+          "nomi": "QA (Qualificatore A)",
+          "paese": "TBD",
           "punteggio": ""
         },
         "vincitore": "",
-        "note": ""
+        "note": "In attesa del risultato delle qualificazioni per determinare QA"
       }
     },
     {
       "localita": "Cortina d'Ampezzo",
       "zona": "Cortina",
-      "evento": "Curling - Round robin doppio misto (Partita 4)",
+      "evento": "Curling - Fase a gironi Doppio misto: Estonia vs Svizzera",
       "orario": "19:05 - 21:05",
+      "tipo": "qualificazione",
       "risultati": {
         "squadra_1": {
-          "nomi": "",
-          "paese": "",
+          "nomi": "Estonia",
+          "paese": "EST",
           "punteggio": ""
         },
         "squadra_2": {
-          "nomi": "",
-          "paese": "",
+          "nomi": "Svizzera",
+          "paese": "SUI",
           "punteggio": ""
         },
         "vincitore": "",
         "note": ""
       }
-    },
-    {
-      "localita": "Cortina d'Ampezzo",
-      "zona": "Cortina",
-      "evento": "Curling - Round robin doppio misto (Partita 1)",
-      "orario": "19:05 - 21:05",
-      "risultati": {
-        "squadra_1": {
-          "nomi": "Luigi-Daria",
-          "paese": "",
-          "punteggio": ""
-        },
-        "squadra_2": {
-          "nomi": "CAnne-Staf",
-          "paese": "",
-          "punteggio": ""
-        },
-        "vincitore": "",
-        "note": ""
-      },
-      "data": "2026-02-04"
     }
   ],
   "totale_eventi": 4,
