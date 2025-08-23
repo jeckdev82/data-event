@@ -5,24 +5,84 @@
     {
       "localita": "Cortina d'Ampezzo",
       "zona": "Cortina",
-      "evento": "Curling - Round robin doppio misto",
+      "evento": "Curling - Round robin doppio misto (Partita 1)",
+      "orario": "14:05 - 16:05",
+      "risultati": {
+        "squadra_1": {
+          "nomi": "",
+          "paese": "",
+          "punteggio": ""
+        },
+        "squadra_2": {
+          "nomi": "",
+          "paese": "",
+          "punteggio": ""
+        },
+        "vincitore": "",
+        "note": ""
+      }
+    },
+    {
+      "localita": "Cortina d'Ampezzo",
+      "zona": "Cortina",
+      "evento": "Curling - Round robin doppio misto (Partita 2)",
+      "orario": "16:35 - 18:35",
+      "risultati": {
+        "squadra_1": {
+          "nomi": "",
+          "paese": "",
+          "punteggio": ""
+        },
+        "squadra_2": {
+          "nomi": "",
+          "paese": "",
+          "punteggio": ""
+        },
+        "vincitore": "",
+        "note": ""
+      }
+    },
+    {
+      "localita": "Cortina d'Ampezzo",
+      "zona": "Cortina",
+      "evento": "Curling - Round robin doppio misto (Partita 3)",
       "orario": "19:05 - 21:05",
       "risultati": {
         "squadra_1": {
-          "nomi": "Luigi",
+          "nomi": "",
           "paese": "",
-          "punteggio": "12"
+          "punteggio": ""
         },
         "squadra_2": {
-          "nomi": "Marco",
+          "nomi": "",
           "paese": "",
-          "punteggio": "21"
+          "punteggio": ""
         },
-        "vincitore": "squadra_2",
+        "vincitore": "",
+        "note": ""
+      }
+    },
+    {
+      "localita": "Cortina d'Ampezzo",
+      "zona": "Cortina",
+      "evento": "Curling - Round robin doppio misto (Partita 4)",
+      "orario": "21:35 - 23:35",
+      "risultati": {
+        "squadra_1": {
+          "nomi": "",
+          "paese": "",
+          "punteggio": ""
+        },
+        "squadra_2": {
+          "nomi": "",
+          "paese": "",
+          "punteggio": ""
+        },
+        "vincitore": "",
         "note": ""
       }
     }
   ],
-  "totale_eventi": 1,
+  "totale_eventi": 4,
   "eventi_medaglia": 0
 }
