@@ -30,18 +30,19 @@
       "orario": "14:35 - 16:35",
       "risultati": {
         "squadra_1": {
-          "nomi": "",
-          "paese": "",
+          "nomi": "Estonia",
+          "paese": "EST",
           "punteggio": ""
         },
         "squadra_2": {
-          "nomi": "",
-          "paese": "",
+          "nomi": "Italia",
+          "paese": "ITA",
           "punteggio": ""
         },
         "vincitore": "",
         "note": ""
-      }
+      },
+      "tipo": "qualificazione"
     },
     {
       "localita": "Milano",
@@ -212,8 +213,29 @@
         "note": ""
       },
       "tipo": "qualificazione"
+    },
+    {
+      "localita": "Cortina d'Ampezzo",
+      "zona": "Cortina",
+      "evento": "Curling - Round robin doppio misto",
+      "orario": "14:35 - 16:35",
+      "risultati": {
+        "squadra_1": {
+          "nomi": "Da Definire",
+          "paese": "TBD",
+          "punteggio": ""
+        },
+        "squadra_2": {
+          "nomi": "USA",
+          "paese": "USA",
+          "punteggio": ""
+        },
+        "vincitore": "",
+        "note": ""
+      },
+      "tipo": "qualificazione"
     }
   ],
-  "totale_eventi": 8,
+  "totale_eventi": 9,
   "eventi_medaglia": 0
 }
