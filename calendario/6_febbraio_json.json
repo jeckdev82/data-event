@@ -9,18 +9,19 @@
       "orario": "10:05 - 12:05",
       "risultati": {
         "squadra_1": {
-          "nomi": "",
-          "paese": "",
+          "nomi": "Svezia",
+          "paese": "SWE",
           "punteggio": ""
         },
         "squadra_2": {
-          "nomi": "",
-          "paese": "",
+          "nomi": "Regno Unito",
+          "paese": "GBR",
           "punteggio": ""
         },
         "vincitore": "",
         "note": ""
-      }
+      },
+      "tipo": "qualificazione"
     },
     {
       "localita": "Cortina d'Ampezzo",
@@ -67,19 +68,55 @@
         ],
         "risultati_disciplina": {
           "danza_ritmica": {
-            "primo": {"coppia": "", "paese": "", "punteggio": ""},
-            "secondo": {"coppia": "", "paese": "", "punteggio": ""},
-            "terzo": {"coppia": "", "paese": "", "punteggio": ""}
+            "primo": {
+              "coppia": "",
+              "paese": "",
+              "punteggio": ""
+            },
+            "secondo": {
+              "coppia": "",
+              "paese": "",
+              "punteggio": ""
+            },
+            "terzo": {
+              "coppia": "",
+              "paese": "",
+              "punteggio": ""
+            }
           },
           "programma_breve_coppie": {
-            "primo": {"coppia": "", "paese": "", "punteggio": ""},
-            "secondo": {"coppia": "", "paese": "", "punteggio": ""},
-            "terzo": {"coppia": "", "paese": "", "punteggio": ""}
+            "primo": {
+              "coppia": "",
+              "paese": "",
+              "punteggio": ""
+            },
+            "secondo": {
+              "coppia": "",
+              "paese": "",
+              "punteggio": ""
+            },
+            "terzo": {
+              "coppia": "",
+              "paese": "",
+              "punteggio": ""
+            }
           },
           "programma_breve_donne": {
-            "primo": {"atleta": "", "paese": "", "punteggio": ""},
-            "secondo": {"atleta": "", "paese": "", "punteggio": ""},
-            "terzo": {"atleta": "", "paese": "", "punteggio": ""}
+            "primo": {
+              "atleta": "",
+              "paese": "",
+              "punteggio": ""
+            },
+            "secondo": {
+              "atleta": "",
+              "paese": "",
+              "punteggio": ""
+            },
+            "terzo": {
+              "atleta": "",
+              "paese": "",
+              "punteggio": ""
+            }
           }
         },
         "note": ""
