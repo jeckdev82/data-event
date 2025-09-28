@@ -30,18 +30,19 @@
       "orario": "14:35 - 16:35",
       "risultati": {
         "squadra_1": {
-          "nomi": "",
-          "paese": "",
+          "nomi": "USA",
+          "paese": "USA",
           "punteggio": ""
         },
         "squadra_2": {
-          "nomi": "",
-          "paese": "",
+          "nomi": "Svizzera",
+          "paese": "SUI",
           "punteggio": ""
         },
         "vincitore": "",
         "note": ""
-      }
+      },
+      "tipo": "qualificazione"
     },
     {
       "localita": "Cortina d'Ampezzo",
