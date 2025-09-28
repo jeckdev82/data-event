@@ -181,14 +181,38 @@
         ],
         "risultati_disciplina": {
           "programma_breve_uomini": {
-            "primo": {"atleta": "", "paese": "", "punteggio": ""},
-            "secondo": {"atleta": "", "paese": "", "punteggio": ""},
-            "terzo": {"atleta": "", "paese": "", "punteggio": ""}
+            "primo": {
+              "atleta": "",
+              "paese": "",
+              "punteggio": ""
+            },
+            "secondo": {
+              "atleta": "",
+              "paese": "",
+              "punteggio": ""
+            },
+            "terzo": {
+              "atleta": "",
+              "paese": "",
+              "punteggio": ""
+            }
           },
           "danza_libero": {
-            "primo": {"coppia": "", "paese": "", "punteggio": ""},
-            "secondo": {"coppia": "", "paese": "", "punteggio": ""},
-            "terzo": {"coppia": "", "paese": "", "punteggio": ""}
+            "primo": {
+              "coppia": "",
+              "paese": "",
+              "punteggio": ""
+            },
+            "secondo": {
+              "coppia": "",
+              "paese": "",
+              "punteggio": ""
+            },
+            "terzo": {
+              "coppia": "",
+              "paese": "",
+              "punteggio": ""
+            }
           }
         },
         "note": ""
