@@ -258,8 +258,71 @@
         "note": ""
       },
       "tipo": "qualificazione"
+    },
+    {
+      "localita": "Cortina d'Ampezzo",
+      "zona": "Cortina",
+      "evento": "Curling - Round robin doppio misto",
+      "orario": "19:05 - 21:05",
+      "risultati": {
+        "squadra_1": {
+          "nomi": "Svizzera",
+          "paese": "SUI",
+          "punteggio": ""
+        },
+        "squadra_2": {
+          "nomi": "Da Definire",
+          "paese": "TBD",
+          "punteggio": ""
+        },
+        "vincitore": "",
+        "note": ""
+      },
+      "tipo": "qualificazione"
+    },
+    {
+      "localita": "Cortina d'Ampezzo",
+      "zona": "Cortina",
+      "evento": "Curling - Round robin doppio misto",
+      "orario": "19:05 - 21:05",
+      "risultati": {
+        "squadra_1": {
+          "nomi": "Estonia",
+          "paese": "EST",
+          "punteggio": ""
+        },
+        "squadra_2": {
+          "nomi": "Svezia",
+          "paese": "SWE",
+          "punteggio": ""
+        },
+        "vincitore": "",
+        "note": ""
+      },
+      "tipo": "qualificazione"
+    },
+    {
+      "localita": "Cortina d'Ampezzo",
+      "zona": "Cortina",
+      "evento": "Curling - Round robin doppio misto",
+      "orario": "19:05 - 21:05",
+      "risultati": {
+        "squadra_1": {
+          "nomi": "Da Definire",
+          "paese": "TBD",
+          "punteggio": ""
+        },
+        "squadra_2": {
+          "nomi": "Regno Unito",
+          "paese": "GBR",
+          "punteggio": ""
+        },
+        "vincitore": "",
+        "note": ""
+      },
+      "tipo": "qualificazione"
     }
   ],
-  "totale_eventi": 12,
+  "totale_eventi": 15,
   "eventi_medaglia": 0
 }
