@@ -171,29 +171,8 @@
         ],
         "note": ""
       }
-    },
-    {
-      "localita": "Cortina d'Ampezzo",
-      "zona": "Cortina",
-      "evento": "curling",
-      "orario": "10:05 - 12:05",
-      "risultati": {
-        "squadra_1": {
-          "nomi": "lucia",
-          "paese": "AUS",
-          "punteggio": ""
-        },
-        "squadra_2": {
-          "nomi": "lucio",
-          "paese": "AUS",
-          "punteggio": ""
-        },
-        "vincitore": "",
-        "note": ""
-      },
-      "tipo": "qualificazione"
     }
   ],
-  "totale_eventi": 9,
+  "totale_eventi": 8,
   "eventi_medaglia": 0
 }
