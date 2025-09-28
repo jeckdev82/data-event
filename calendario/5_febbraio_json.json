@@ -193,8 +193,28 @@
         "note": ""
       },
       "tipo": "qualificazione"
+    },
+    {
+      "localita": "Cortina d'Ampezzo",
+      "zona": "Cortina",
+      "evento": "Curling - Round robin doppio misto",
+      "orario": "10:05 - 12:05",
+      "risultati": {
+        "squadra_1": {
+          "nomi": "Svezia",
+          "paese": "SWE",
+          "punteggio": ""
+        },
+        "squadra_2": {
+          "nomi": "Da Definire",
+          "paese": "TBD",
+          "punteggio": ""
+        },
+        "vincitore": "",
+        "note": ""
+      }
     }
   ],
-  "totale_eventi": 9,
+  "totale_eventi": 10,
   "eventi_medaglia": 0
 }
