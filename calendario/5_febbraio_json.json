@@ -172,8 +172,29 @@
         ],
         "note": ""
       }
+    },
+    {
+      "localita": "Cortina d'Ampezzo",
+      "zona": "Cortina",
+      "evento": "Curling - Round robin doppio misto",
+      "orario": "10:05 - 12:05",
+      "risultati": {
+        "squadra_1": {
+          "nomi": "",
+          "paese": "",
+          "punteggio": ""
+        },
+        "squadra_2": {
+          "nomi": "",
+          "paese": "",
+          "punteggio": ""
+        },
+        "vincitore": "",
+        "note": ""
+      },
+      "tipo": "qualificazione"
     }
   ],
-  "totale_eventi": 8,
+  "totale_eventi": 9,
   "eventi_medaglia": 0
 }
