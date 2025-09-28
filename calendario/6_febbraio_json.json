@@ -170,8 +170,50 @@
       "risultati": {
         "note": "Cerimonia inaugurale delle Olimpiadi Invernali Milano-Cortina 2026"
       }
+    },
+    {
+      "localita": "Cortina d'Ampezzo",
+      "zona": "Cortina",
+      "evento": "Curling - Round robin doppio misto",
+      "orario": "10:05 - 12:05",
+      "risultati": {
+        "squadra_1": {
+          "nomi": "Italia",
+          "paese": "ITA",
+          "punteggio": ""
+        },
+        "squadra_2": {
+          "nomi": "Svizzera",
+          "paese": "SUI",
+          "punteggio": ""
+        },
+        "vincitore": "",
+        "note": ""
+      },
+      "tipo": "qualificazione"
+    },
+    {
+      "localita": "Cortina d'Ampezzo",
+      "zona": "Cortina",
+      "evento": "Curling - Round robin doppio misto",
+      "orario": "10:05 - 12:05",
+      "risultati": {
+        "squadra_1": {
+          "nomi": "USA",
+          "paese": "USA",
+          "punteggio": ""
+        },
+        "squadra_2": {
+          "nomi": "Canada",
+          "paese": "CAN",
+          "punteggio": ""
+        },
+        "vincitore": "",
+        "note": ""
+      },
+      "tipo": "qualificazione"
     }
   ],
-  "totale_eventi": 6,
+  "totale_eventi": 8,
   "eventi_medaglia": 0
 }
