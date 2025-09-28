@@ -192,8 +192,29 @@
         "vincitore": "",
         "note": ""
       }
+    },
+    {
+      "localita": "Cortina d'Ampezzo",
+      "zona": "Cortina",
+      "evento": "Curling - Round robin doppio misto",
+      "orario": "10:05 - 12:05",
+      "risultati": {
+        "squadra_1": {
+          "nomi": "Norvegia",
+          "paese": "NOR",
+          "punteggio": ""
+        },
+        "squadra_2": {
+          "nomi": "USA",
+          "paese": "USA",
+          "punteggio": ""
+        },
+        "vincitore": "",
+        "note": ""
+      },
+      "tipo": "qualificazione"
     }
   ],
-  "totale_eventi": 9,
+  "totale_eventi": 10,
   "eventi_medaglia": 0
 }
