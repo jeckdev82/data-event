@@ -124,18 +124,19 @@
       "orario": "14:35 - 16:35",
       "risultati": {
         "squadra_1": {
-          "nomi": "",
-          "paese": "",
+          "nomi": "Estonia",
+          "paese": "EST",
           "punteggio": ""
         },
         "squadra_2": {
-          "nomi": "",
-          "paese": "",
+          "nomi": "Norvegia",
+          "paese": "NOR",
           "punteggio": ""
         },
         "vincitore": "",
         "note": ""
-      }
+      },
+      "tipo": "qualificazione"
     },
     {
       "localita": "Cortina d'Ampezzo",
@@ -549,9 +550,30 @@
         ],
         "note": ""
       }
+    },
+    {
+      "localita": "Cortina d'Ampezzo",
+      "zona": "Cortina",
+      "evento": "Curling - Round robin doppio misto",
+      "orario": "10:05 - 12:05",
+      "risultati": {
+        "squadra_1": {
+          "nomi": "Svizzera",
+          "paese": "SUI",
+          "punteggio": ""
+        },
+        "squadra_2": {
+          "nomi": "Svezia",
+          "paese": "SWE",
+          "punteggio": ""
+        },
+        "vincitore": "",
+        "note": ""
+      },
+      "tipo": "qualificazione"
     }
   ],
-  "totale_eventi": 16,
+  "totale_eventi": 17,
   "eventi_medaglia": 5,
   "prime_medaglie_olimpiche": true
 }
