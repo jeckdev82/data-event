@@ -288,18 +288,19 @@
       "orario": "12:10 - 14:40",
       "risultati": {
         "squadra_1": {
-          "nome": "",
-          "paese": "",
+          "nomi": "Germania",
+          "paese": "GER",
           "punteggio": ""
         },
         "squadra_2": {
-          "nome": "",
-          "paese": "",
+          "nomi": "Giappone",
+          "paese": "JPN",
           "punteggio": ""
         },
         "vincitore": "",
         "note": ""
-      }
+      },
+      "tipo": "qualificazione"
     },
     {
       "localita": "Milano",
@@ -614,9 +615,72 @@
         "note": ""
       },
       "tipo": "qualificazione"
+    },
+    {
+      "localita": "Cortina d'Ampezzo",
+      "zona": "Cortina",
+      "evento": "Curling - Round robin doppio misto",
+      "orario": "19:05 - 21:05",
+      "risultati": {
+        "squadra_1": {
+          "nomi": "Canada",
+          "paese": "CAN",
+          "punteggio": ""
+        },
+        "squadra_2": {
+          "nomi": "Estonia",
+          "paese": "EST",
+          "punteggio": ""
+        },
+        "vincitore": "",
+        "note": ""
+      },
+      "tipo": "qualificazione"
+    },
+    {
+      "localita": "Cortina d'Ampezzo",
+      "zona": "Cortina",
+      "evento": "Curling - Round robin doppio misto",
+      "orario": "19:05 - 21:05",
+      "risultati": {
+        "squadra_1": {
+          "nomi": "Da Definire",
+          "paese": "TBD",
+          "punteggio": ""
+        },
+        "squadra_2": {
+          "nomi": "Svizzera",
+          "paese": "SUI",
+          "punteggio": ""
+        },
+        "vincitore": "",
+        "note": ""
+      },
+      "tipo": "qualificazione"
+    },
+    {
+      "localita": "Cortina d'Ampezzo",
+      "zona": "Cortina",
+      "evento": "Curling - Round robin doppio misto",
+      "orario": "19:05 - 21:05",
+      "risultati": {
+        "squadra_1": {
+          "nomi": "Norvegia",
+          "paese": "NOR",
+          "punteggio": ""
+        },
+        "squadra_2": {
+          "nomi": "Italia",
+          "paese": "ITA",
+          "punteggio": ""
+        },
+        "vincitore": "",
+        "note": ""
+      },
+      "tipo": "qualificazione"
     }
   ],
-  "totale_eventi": 19,
+  "totale_eventi": 22,
   "eventi_medaglia": 5,
   "prime_medaglie_olimpiche": true
 }
