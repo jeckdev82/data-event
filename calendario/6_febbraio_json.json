@@ -151,13 +151,13 @@
       "orario": "14:40 - 17:10",
       "risultati": {
         "squadra_1": {
-          "nome": "",
-          "paese": "",
+          "nomi": "Repubblica Ceca",
+          "paese": "CZE",
           "punteggio": ""
         },
         "squadra_2": {
-          "nome": "",
-          "paese": "",
+          "nomi": "Svizzera",
+          "paese": "SUI",
           "punteggio": ""
         },
         "vincitore": "",
