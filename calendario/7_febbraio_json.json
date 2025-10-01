@@ -309,18 +309,19 @@
       "orario": "14:40 - 17:10",
       "risultati": {
         "squadra_1": {
-          "nome": "",
-          "paese": "",
+          "nomi": "Svezia",
+          "paese": "SWE",
           "punteggio": ""
         },
         "squadra_2": {
-          "nome": "",
-          "paese": "",
+          "nomi": "Italia",
+          "paese": "ITA",
           "punteggio": ""
         },
         "vincitore": "",
         "note": ""
-      }
+      },
+      "tipo": "qualificazione"
     },
     {
       "localita": "Milano",
