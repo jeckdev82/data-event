@@ -592,9 +592,30 @@
         "note": ""
       },
       "tipo": "qualificazione"
+    },
+    {
+      "localita": "Cortina d'Ampezzo",
+      "zona": "Cortina",
+      "evento": "Curling - Round robin doppio misto",
+      "orario": "14:35 - 16:35",
+      "risultati": {
+        "squadra_1": {
+          "nomi": "Regno Unito",
+          "paese": "GBR",
+          "punteggio": ""
+        },
+        "squadra_2": {
+          "nomi": "Stati Uniti",
+          "paese": "USA",
+          "punteggio": ""
+        },
+        "vincitore": "",
+        "note": ""
+      },
+      "tipo": "qualificazione"
     }
   ],
-  "totale_eventi": 18,
+  "totale_eventi": 19,
   "eventi_medaglia": 5,
   "prime_medaglie_olimpiche": true
 }
