@@ -351,18 +351,19 @@
       "orario": "21:10 - 23:40",
       "risultati": {
         "squadra_1": {
-          "nome": "",
-          "paese": "",
+          "nomi": "Svizzera",
+          "paese": "SUI",
           "punteggio": ""
         },
         "squadra_2": {
-          "nome": "",
-          "paese": "",
+          "nomi": "Canada",
+          "paese": "CAN",
           "punteggio": ""
         },
         "vincitore": "",
         "note": ""
-      }
+      },
+      "tipo": "qualificazione"
     },
     {
       "localita": "Cortina d'Ampezzo",
