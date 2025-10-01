@@ -130,18 +130,19 @@
       "orario": "12:10 - 14:40",
       "risultati": {
         "squadra_1": {
-          "nome": "",
-          "paese": "",
+          "nomi": "Francia",
+          "paese": "FRA",
           "punteggio": ""
         },
         "squadra_2": {
-          "nome": "",
-          "paese": "",
+          "nomi": "Giappone",
+          "paese": "JPN",
           "punteggio": ""
         },
         "vincitore": "",
         "note": ""
-      }
+      },
+      "tipo": "qualificazione"
     },
     {
       "localita": "Milano",
