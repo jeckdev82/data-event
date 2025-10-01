@@ -103,18 +103,19 @@
       "orario": "10:05 - 12:05",
       "risultati": {
         "squadra_1": {
-          "nomi": "",
-          "paese": "",
+          "nomi": "Regno Unito",
+          "paese": "GBR",
           "punteggio": ""
         },
         "squadra_2": {
-          "nomi": "",
-          "paese": "",
+          "nomi": "Canada",
+          "paese": "CAN",
           "punteggio": ""
         },
         "vincitore": "",
         "note": ""
-      }
+      },
+      "tipo": "qualificazione"
     },
     {
       "localita": "Cortina d'Ampezzo",
