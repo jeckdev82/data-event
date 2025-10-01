@@ -135,13 +135,13 @@
       "orario": "21:10 - 23:40",
       "risultati": {
         "squadra_1": {
-          "nome": "",
-          "paese": "",
+          "nomi": "Finlandia",
+          "paese": "FIN",
           "punteggio": ""
         },
         "squadra_2": {
-          "nome": "",
-          "paese": "",
+          "nomi": "Canada",
+          "paese": "CAN",
           "punteggio": ""
         },
         "vincitore": "",
