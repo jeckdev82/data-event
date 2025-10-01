@@ -114,18 +114,19 @@
       "orario": "16:40 - 19:10",
       "risultati": {
         "squadra_1": {
-          "nome": "",
-          "paese": "",
+          "nomi": "Usa",
+          "paese": "USA",
           "punteggio": ""
         },
         "squadra_2": {
-          "nome": "",
-          "paese": "",
+          "nomi": "Repubblica Checa",
+          "paese": "CZE",
           "punteggio": ""
         },
         "vincitore": "",
         "note": ""
-      }
+      },
+      "tipo": "qualificazione"
     },
     {
       "localita": "Milano",
