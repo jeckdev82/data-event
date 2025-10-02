@@ -154,6 +154,12 @@
       "evento": "Snowboard - Qualificazioni big air uomini",
       "orario": "19:30 - 21:45",
       "risultati": {
+        "italiani_in_gara": [
+          {
+            "nome": "gino",
+            "punteggio": ""
+          }
+        ],
         "qualificati": [],
         "classifica_qualificazioni": [
           {
@@ -175,7 +181,7 @@
             "punteggio": ""
           }
         ],
-        "note": ""
+        "manche_attuale": "finale"
       },
       "tipo": "qualificazione"
     },
